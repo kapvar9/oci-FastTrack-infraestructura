@@ -16,11 +16,12 @@ Para ello, debemos seguir los siguientes pasos:
    ![imagen](/PrimerosPasos/imagenes/paso2.png)
   
 3. Ingresar el código del evento y clic en "Submit code". _Este será proporcionado por correo cuando te inscribas al evento_ 📬
+   
    ![imagen](/PrimerosPasos/imagenes/paso3.png)
 
-4. LiveLabs nos redigirá a esta página
+5. LiveLabs nos redigirá a esta página
 
-   ![imagen](/PrimerosPasos/imagenes/paso3.png)
+   ![imagen](/PrimerosPasos/imagenes/paso4.png)
 
 **_Super! Ya casi estás listo para empezar con el workshop_** 🚀
 
