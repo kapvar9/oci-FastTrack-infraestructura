@@ -7,7 +7,12 @@ Para ello, debemos seguir los siguientes pasos:
 - [Paso 2: Activar tu ambiente de laboratorio](#Paso2)
 - [Paso 3: Configurar tu ambiente de laboratorio](#Paso3)
 
- ## <a name="Paso1"></a> Paso 1: Ingresar a Live Labs
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+## <a name="Paso1"></a> Paso 1: Ingresar a Live Labs
  
 1.  Acceder a la página de LiveLabs Home ➡️ https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/home?session=14060790907614
 
@@ -26,6 +31,8 @@ Para ello, debemos seguir los siguientes pasos:
    ![imagen](/PrimerosPasos/imagenes/paso4.png)
 
 **_Super! Ya casi estás listo para empezar con el workshop_** 🚀
+
+</details>
 
  ## <a name="Paso2"></a> Paso 2: Activar tu ambiente de laboratorio
 
