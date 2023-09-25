@@ -18,7 +18,7 @@ _Tiempo estimado para terminar el Workshop_: 8 horas
 > [!IMPORTANT]
 > Antes de empezar, recuerda revisar la sección de Primeros Pasos
 
-- [Primeros pasos en OCI](https://github.com/kapvar9/oci-fastTrack-infraestructura/blob/main/PrimerosPasos/Readme.md)
+- [Primeros pasos en OCI](PrimerosPasos/Readme.md)
   
 ¡Accede a la secuencia de laboratorios! ⬇
 - [Laboratorio 1 - Explorar un compartimento](https://github.com/kapvar9/oci-fastTrack-infraestructura/tree/main/Parte1)
