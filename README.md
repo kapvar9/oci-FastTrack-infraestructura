@@ -1,4 +1,4 @@
-# OCI Infraestructure FastTrack
+# OCI Infrastructure FastTrack
   
 ¡Este es el repositorio donde almacenamos todo el material para los laboratorios del **Fast Track de Infraestructura**!
 
