@@ -1,6 +1,7 @@
 # Explorar un compartimento en OCI
 
-1. ddd
-2. ddd
-3. dddd
-4. 
+## Aprendamos un poco sobre la arquitectura de OCI
+
+La arquitectura de OCI está compuesta de 3 partes: Regiones, Availability Domains (AD) y Fault Domain.
+
+![imagen](/../Lab1-Compartimentos/Imagenes/lab1-1.png)
