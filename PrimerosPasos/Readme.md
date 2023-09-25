@@ -43,9 +43,9 @@ Para ello, debemos seguir los siguientes pasos:
 
    También te llegará un correo que te avisará cuando tu ambiente haya terminado de crearse
 
-   ![imagen](/PrimerosPasos/imagenes/paso8.png)
-
-4. Cuando tu ambiente este listo, dale clic a _"Launch Workshop"_
+  ![imagen](/PrimerosPasos/imagenes/paso8.png)
+   
+5. Cuando tu ambiente este listo, dale clic a _"Launch Workshop"_
 
     ![imagen](/PrimerosPasos/imagenes/paso9.png)
 
