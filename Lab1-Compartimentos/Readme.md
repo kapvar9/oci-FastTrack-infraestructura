@@ -53,7 +53,7 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
    
    ![imagen](../PrimerosPasos/imagenes/paso21.png)
    
-1. En el menu 🍔, seleccionamos Identity & Security ➡️ Compartments
+2. En el menu 🍔, seleccionamos Identity & Security ➡️ Compartments
 
   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-3.png)
 
@@ -61,8 +61,12 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
 
   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-4.png)
 
-1. Ahora volvemos al menu 🍔, seleccionamos Compute ➡️ Instances
+3. Ahora volvemos al menu 🍔, seleccionamos Compute ➡️ Instances
    
   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-5.png)
 
-1. Verificamos que estemos en el compartment correspondiente a nuestro usuario asignado.
+4. Verificamos que estemos en el compartment correspondiente a nuestro usuario asignado
+
+  ![imagen](../Lab1-Compartimentos/Imagenes/lab1-6.png)
+
+#### Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 2](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab2-VCN/Readme.md)
