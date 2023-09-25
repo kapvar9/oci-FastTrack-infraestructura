@@ -1,6 +1,6 @@
 # Empezando con Oracle LiveLabs
 
-Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por Oracle. 
+Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por Oracle. Para poder realizar el Workshop, debemos seguir estos pasos primero para preparar nuestro ambiente 🤩 
 
 <details>
 
@@ -50,7 +50,7 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
 
     ![imagen](/PrimerosPasos/imagenes/paso9.png)
 
-**_Genial! Ahora ya podemos empezar_** 🚀
+**_Genial! Solo falta un paso más_** 🚀
 
 </details>
 
@@ -120,4 +120,5 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
    ![imagen](/PrimerosPasos/imagenes/paso23.png)
 
 **_BRAVO!🤩 Ahora ya estamos listos para empezar_** 🚀
+
 </details>
