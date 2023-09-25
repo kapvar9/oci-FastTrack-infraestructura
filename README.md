@@ -9,13 +9,17 @@ Oracle Cloud Infrastructure (OCI) Fast Track es un taller práctico diseñado pa
 Nuestro objetivo es que, al final de este taller, los participantes puedan implementar sus propias infraestructuras siguiendo las mejores prácticas de OCI.
 </p>
 
-
-
-
 Al final de este taller, la arquitectura creada será la siguiente:
 
+ ![imagen]( PrimerosPasos/imagenes/ft-architecture-gb.png)
 
-Antes de empezar, recuerda tener 
+_Tiempo estimado para terminar el Workshop_: 8 horas
+
+> [!IMPORTANT]
+> Antes de empezar, recuerda revisar la sección de Primeros Pasos
+
+- [Primeros pasos en OCI]()
+  
 ¡Accede a la secuencia de laboratorios! ⬇
 - [Laboratorio 1 - Explorar un compartimento](https://github.com/kapvar9/oci-fastTrack-infraestructura/tree/main/Parte1)
 - [Laboratorio 2 - Explorar un Virtual Cloud Network (VCN)]
