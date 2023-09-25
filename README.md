@@ -3,9 +3,14 @@
 ¡Este es el repositorio donde almacenamos todo el material para los laboratorios del **Fast Track de Infraestructura**!
 
 ## Sobre este Workhsop
+<p align="justify">
 Oracle Cloud Infrastructure (OCI) Fast Track es un taller práctico diseñado para aquellos que desean aprender a trabajar con la nube de Oracle desde cero. Durante este taller, cubriremos todos los conceptos básicos relacionados con la infraestructura en la nube, y el resultado final será adquirir conocimientos sobre equilibradores de carga, máquinas virtuales, almacenamiento y Bases de Datos Oracle Autonomous Database. Exploraremos cada uno de los recursos disponibles en Infraestructura como Código (IaaS), desde redes y almacenamiento hasta máquinas virtuales y equilibradores de carga. Para comenzar, es importante asegurarse de que el usuario tenga una comprensión clara de los componentes básicos de OCI, como Regiones, Compartimentos y Dominios de Disponibilidad.
 
 Nuestro objetivo es que, al final de este taller, los participantes puedan implementar sus propias infraestructuras siguiendo las mejores prácticas de OCI.
+</p>
+
+
+
 
 Al final de este taller, la arquitectura creada será la siguiente:
 
