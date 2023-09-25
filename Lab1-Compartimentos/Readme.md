@@ -48,7 +48,20 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
 </p>
 
 ## Laboratorio 1: Exploremos un compartment
-<ol>
-  <li>1. Accedamos a nuestra consola de OCI </li>
-  
-</ol>
+
+1. Accedamos a nuestra consola de OCI
+   
+   ![imagen](../PrimerosPasos/imagenes/paso21.png)
+   
+1. En el menu 🍔, seleccionamos Identity & Security ➡️ Compartments
+
+  ![imagen](../Lab1-Compartimentos/Imagenes/lab1-3.png)
+
+  Podemos visualizar los compartments disponibles que tenemos
+
+  ![imagen](../Lab1-Compartimentos/Imagenes/lab1-4.png)
+
+1. Ahora volvemos al menu 🍔, seleccionamos Compute ➡️ Instances
+   
+  ![imagen](../Lab1-Compartimentos/Imagenes/lab1-5.png)
+   
