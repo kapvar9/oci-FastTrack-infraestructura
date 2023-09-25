@@ -31,17 +31,17 @@ Un dominio de fallos es una agrupación de hardware e infraestructura en un domi
 
 ## Trabajar con compatimentos (compartments) para organizar nuestros recursos en OCI 
 
-Cuando comience a trabajar con Oracle Cloud Infrastructure, deberá considerar cuidadosamente cómo desea utilizar los compartimentos para organizar y aislar sus recursos en la nube. Los compartimentos son fundamentales en este proceso. Una vez que haya colocado un recurso en un compartimento, podrá moverlo entre compartimentos.
+Cuando comiences a trabajar con Oracle Cloud Infrastructure, deberá considerar cómo deseas utilizar los compartimentos para organizar y aislar sus recursos en la nube. Los compartimentos son fundamentales en este proceso. Una vez que hayas colocado un recurso en un compartimento, podrás moverlo entre compartimentos.
 
-Al crear un nuevo compartimento, deberá proporcionarle un nombre (con un máximo de 100 caracteres, incluyendo letras, números, puntos, guiones y guiones bajos) que sea único dentro de su jerarquía de compartimentos. También deberá proporcionar una descripción, que es no única y puede cambiar, con una longitud de entre 1 y 400 caracteres. Oracle también asignará al compartimento un ID exclusivo conocido como Oracle Cloud ID (OCID).
+Al crear un nuevo compartimento, deberás proporcionarle un nombre (con un máximo de 100 caracteres, incluyendo letras, números, puntos, guiones y guiones bajos) que sea único dentro de su jerarquía de compartimentos. También deberás proporcionar una descripción, que es no única y puede cambiar, con una longitud de entre 1 y 400 caracteres. Oracle también asignará al compartimento un ID exclusivo conocido como Oracle Cloud ID (OCID).
 
-Una vez que se haya creado un recurso en un compartimento, podrá moverlo a otro.
+Una vez que se haya creado un recurso en un compartimento, podrás moverlo a otro.
 
-La consola está diseñada para mostrar sus recursos por compartimento en la región actual. Al trabajar con sus recursos en la consola, deberá elegir en qué compartimento desea trabajar desde una lista en la página.
+La consola está diseñada para mostrar sus recursos por compartimento en la región actual. Al trabajar con sus recursos en la consola, deberás elegir en qué compartimento desea trabajar desde una lista en la página.
 
-Esta lista se filtra para mostrar solo los compartimentos en la ubicación a la que tiene permiso de acceso. Si es un administrador, tendrá permiso para ver todos los compartimentos y trabajar con los recursos de cualquier compartimento, pero si es un usuario con acceso limitado, es posible que no lo tenga.
+Esta lista se filtra para mostrar solo los compartimentos en la ubicación a la que tiene permiso de acceso. Si eres un administrador, tendrás permiso para ver todos los compartimentos y trabajar con los recursos de cualquier compartimento, pero si eres un usuario con acceso limitado, es posible que no lo tengas.
 
-Los compartimentos son globales en todas las regiones; cuando crea un compartimento, está disponible en todas las regiones a las que está suscrito en su contrato.
+Los compartimentos son globales en todas las regiones; cuando creas un compartimento, está disponible en todas las regiones a las que está suscrito en su contrato.
 
 ![imagen](../Lab1-Compartimentos/Imagenes/lab1-2.png)
 
