@@ -10,7 +10,7 @@ Para ello, debemos seguir los siguientes pasos:
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary> Paso 1: Ingresar a Live Labs</summary>
 
 ## <a name="Paso1"></a> Paso 1: Ingresar a Live Labs
  
@@ -33,6 +33,10 @@ Para ello, debemos seguir los siguientes pasos:
 **_Super! Ya casi estás listo para empezar con el workshop_** 🚀
 
 </details>
+
+<details>
+
+<summary> Paso 2: Activar tu ambiente de laboratorio </summary>
 
  ## <a name="Paso2"></a> Paso 2: Activar tu ambiente de laboratorio
 
@@ -57,6 +61,12 @@ Para ello, debemos seguir los siguientes pasos:
     ![imagen](/PrimerosPasos/imagenes/paso9.png)
 
 **_Genial! Ahora ya podemos empezar_** 🚀
+
+</details>
+
+<details>
+
+<summary> Paso 3: Configurar tu ambiente de laboratorio </summary>
 
  ## <a name="Paso3"></a> Paso 3: Configurar tu ambiente de laboratorio
 
@@ -121,3 +131,4 @@ Para ello, debemos seguir los siguientes pasos:
    ![imagen](/PrimerosPasos/imagenes/paso23.png)
 
 **_BRAVO!🤩 Ahora ya estamos listos para empezar_** 🚀
+</details>
