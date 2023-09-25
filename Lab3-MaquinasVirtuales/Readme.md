@@ -19,3 +19,30 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
 
 ### Paso 1: Crear un par de llaves SSH
 
+1. Abrimos el escritorio remoto y el terminal 
+
+  ![imagen](../PrimerosPasos/imagenes/paso23.png)
+
+2. Para crear el par de llaves usamos el comando:
+
+   ```
+   ssh-keygen -t rsa
+   ```
+   - Mantenga el nombre original de la llave (id_rsa) aprentando enter
+   - El campo "Key Passphrase" es opcional
+
+   ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-1.png)
+
+3. Para ver el contenido de la llave pública, ejecuta este comando:
+   
+   ```
+   cat ~/.ssh/id_rsa.pub
+   ```
+  > **Note:** Si no sabes la combinación de teclas para el símbolo "~" (virgulilla), dentro del terminal puedes abrir Google Chrome, buscar el símbolo, copiarlo y pegarlo en el terminal
+
+  * Selecciona y copia el contenido de la llave. Usaremos esto para la creación de las máquinas virtuales.
+    
+    ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-2.png)
+    
+4. 
+   
