@@ -27,7 +27,7 @@ Para ello, debemos seguir los siguientes pasos:
 
 **_Super! Ya casi estás listo para empezar con el workshop_** 🚀
 
- ## <a name="Paso2"></a> Paso 2: Activar tu ambiente de trabajo en LiveLabs
+ ## <a name="Paso2"></a> Paso 2: Activar tu ambiente de laboratorio
 
  1. Luego de dar clic en _"Start"_, nos aparecerá un recuadro con 2 opciones, elegimos la segunda _"Run on LiveLabs Sandbox"_
 
@@ -53,4 +53,17 @@ Para ello, debemos seguir los siguientes pasos:
 
  ## <a name="Paso3"></a> Paso 3: Configurar tu ambiente de laboratorio
 
- 1. 
+ 1. Luego de dar clic a _"Launch Workshop"_, nos aparecerá una página con el paso a paso del laboratorio. Hacemos clic en _"View Login Info"_ para ver nuestros datos de la reserva
+
+   ![imagen](/PrimerosPasos/imagenes/paso10.png)
+
+   Los datos de la reserva se verán como en la imagen ⤵️
+
+   ![imagen](/PrimerosPasos/imagenes/paso11.png)
+   
+   Apuntemos en un bloc de notas, el _"username"_ y el _"password"_ de OCI
+
+ 2. Hacemos clic en _"Launch Oci"_ y nos redireccionara a la página de OCI. Debemos verificar que nuestro usuario y el tenancy sean los correctos 🕵️‍♀️ Caso contrario, tenemos que cambiarlo de acuerdo a los datos de la reserva
+     ![imagen](/PrimerosPasos/imagenes/paso12.png)
+
+    
