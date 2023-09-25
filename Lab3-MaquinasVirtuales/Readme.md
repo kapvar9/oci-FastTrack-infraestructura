@@ -38,11 +38,17 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
    ```
    cat ~/.ssh/id_rsa.pub
    ```
-  > **Note:** Si no sabes la combinación de teclas para el símbolo "~" (virgulilla), dentro del terminal puedes abrir Google Chrome, buscar el símbolo, copiarlo y pegarlo en el terminal
+  > **Note:** Si no sabes la combinación de teclas para el símbolo "~" (virgulilla), busca el símbolo y copialo en el área de transferencia del Escritorio Remoto. Luego de ello, pégalo dentro del terminal usando _clic derecho + pegar_. Puedes hacer esto para facilitar el copiado/pegado de texto entre tu escritorio y el escritorio remoto.
+
+   ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-3.png)
 
   * Selecciona y copia el contenido de la llave. Usaremos esto para la creación de las máquinas virtuales.
     
     ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-2.png)
-    
+
+  _Para la creación de la VM, usaremos una llave pública y para la conexión, usaremos la llave privada_
+
+   > **Note:** Copia el contenido de la llave dentro del área de transferencia del Escritorio Rmeoto para falicitar el proceso de 
+     
 4. 
    
