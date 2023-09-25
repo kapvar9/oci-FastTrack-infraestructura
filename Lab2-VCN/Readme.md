@@ -1,8 +1,8 @@
 # Explorar una VCN en OCI
 
 Esta sección contiene 2 partes:
-- [VNC](#trabajar-con-compatimentos-compartments-para-organizar-nuestros-recursos-en-oci)
-- [Laboratorio 2](#laboratorio-1-exploremos-un-compartment)
+- [VNC](#aprendamos-un-poco-sobre-lo-que-es-una-vcn)
+- [Laboratorio 2](#laboratorio-2-exploremos-una-vcn)
   
 ## Aprendamos un poco sobre lo que es una VCN
 
