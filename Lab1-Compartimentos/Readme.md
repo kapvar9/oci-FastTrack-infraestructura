@@ -1,6 +1,11 @@
 # Explorar un compartimento en OCI
 
-## Aprendamos un poco sobre la arquitectura de OCI
+Esta sección contiene 3 partes:
+- [Arquitectura de OCI](#Parte1)
+- [Comparments](#Parte2)
+- [Laboratorio 1](#Parte2)
+
+## <a name="Parte1"></a> Aprendamos un poco sobre la arquitectura de OCI 
 
 <p align="justify">
 La arquitectura de OCI está compuesta de 3 partes: Regiones, Dominios de Disponibilidad o Availability Domains (AD) y Fault Domain o Dominio de Fallo (FD). Esta arquitectura está diseñada para lograr un alta disponibilidad y confiabilidad de las cargas de trabajo críticas de los clientes. 
@@ -29,7 +34,7 @@ Los dominios de disponibilidad están aislados entre sí, son tolerantes a fallo
 
 Un dominio de fallos es una agrupación de hardware e infraestructura en un dominio de disponibilidad. Cada AD está compuesto de 3 FDs. Los dominios de fallo le permiten distribuir las instancias de modo que no se encuentren en el mismo hardware físico dentro de un único dominio de disponibilidad. Como resultado, un fallo de hardware o mantenimiento de hardware que afecta un dominio de fallos no afecta a las instancias de otros dominios de fallos.
 
-## Trabajar con compatimentos (compartments) para organizar nuestros recursos en OCI 
+## <a name="Parte2"></a> Trabajar con compatimentos (compartments) para organizar nuestros recursos en OCI  
 
 Cuando comiences a trabajar con Oracle Cloud Infrastructure, deberá considerar cómo deseas utilizar los compartimentos para organizar y aislar sus recursos en la nube. Los compartimentos son fundamentales en este proceso. Una vez que hayas colocado un recurso en un compartimento, podrás moverlo entre compartimentos.
 
@@ -47,7 +52,7 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
 
 </p>
 
-## Laboratorio 1: Exploremos un compartment
+## <a name="Parte3"></a> Laboratorio 1: Exploremos un compartment
 
 1. Accedamos a nuestra consola de OCI
    
