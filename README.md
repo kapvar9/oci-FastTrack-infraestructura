@@ -20,7 +20,7 @@ _Tiempo estimado para terminar el Workshop_: 8 horas
 
 - [Primeros pasos en OCI](PrimerosPasos/Readme.md)
   
-¡Accede a la secuencia de laboratorios! ⬇
+### ¡Accede a la secuencia de laboratorios! ⬇
 - [Laboratorio 1 - Explorar un compartimento](Lab1-Compartimentos/Readme.md)
 - [Laboratorio 2 - Explorar un Virtual Cloud Network (VCN)](Lab2-VCN)
 - [Laboratorio 3 - Crear máquinas virtuales](Lab3-MaquinasVirtuales/Readme.md)
@@ -31,6 +31,6 @@ _Tiempo estimado para terminar el Workshop_: 8 horas
 
 
 
-<p>¡Certíficate en OCI! 💻🚀</p>
+### ¡Certíficate en OCI! 💻🚀
 
 <a href="https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2023/122043"> 🏅OCI Foundations Associate</a>
