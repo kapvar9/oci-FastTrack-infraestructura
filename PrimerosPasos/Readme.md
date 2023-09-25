@@ -89,7 +89,16 @@ Para ello, debemos seguir los siguientes pasos:
 
 8. Elegimos la opción de _"Aplicación móvil"_
 
-   ![imagen](/PrimerosPasos/imagenes/paso17.png)
+   ![imagen](/PrimerosPasos/imagenes/paso18.png)
 
-9. 
+9. Descargamos la aplicación móvil _"Oracle Mobile Authenticator"_ de la tienda de aplicaciones de su celular
+    - Si eres Android: https://play.google.com/store/apps/details?id=oracle.idm.mobile.authenticator&hl=en&pli=1
+    - Si eres Apple: https://apps.apple.com/us/app/oracle-mobile-authenticator/id835904829
+
+    ![imagen](/PrimerosPasos/imagenes/paso19.png)
+
+10. Si la cuenta ha sido agregada correctamente, te deberá aparecer este mensaje. Luego, haz clic en _"Listo"_⤵️
     
+    ![imagen](/PrimerosPasos/imagenes/paso19.png)
+
+11. 
