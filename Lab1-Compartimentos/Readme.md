@@ -47,4 +47,8 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
 
 </p>
 
-
+## Laboratorio 1: Exploremos un compartment
+<ol>
+  <li>1. Accedamos a nuestra consola de OCI </li>
+  
+</ol>
