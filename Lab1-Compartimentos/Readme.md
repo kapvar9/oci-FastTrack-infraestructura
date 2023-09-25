@@ -29,7 +29,7 @@ Los dominios de disponibilidad están aislados entre sí, son tolerantes a fallo
 
 Un dominio de fallos es una agrupación de hardware e infraestructura en un dominio de disponibilidad. Cada AD está compuesto de 3 FDs. Los dominios de fallo le permiten distribuir las instancias de modo que no se encuentren en el mismo hardware físico dentro de un único dominio de disponibilidad. Como resultado, un fallo de hardware o mantenimiento de hardware que afecta un dominio de fallos no afecta a las instancias de otros dominios de fallos.
 
-### Trabajar con compatimentos (Compartments)
+## Trabajar con compatimentos (compartments) para organizar nuestros recursos en OCI 
 
 Cuando comience a trabajar con Oracle Cloud Infrastructure, deberá considerar cuidadosamente cómo desea utilizar los compartimentos para organizar y aislar sus recursos en la nube. Los compartimentos son fundamentales en este proceso. Una vez que haya colocado un recurso en un compartimento, podrá moverlo entre compartimentos.
 
@@ -46,3 +46,5 @@ Los compartimentos son globales en todas las regiones; cuando crea un compartime
 ![imagen](../Lab1-Compartimentos/Imagenes/lab1-2.png)
 
 </p>
+
+
