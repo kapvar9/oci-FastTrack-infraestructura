@@ -1,7 +1,7 @@
 # Explorar un compartimento en OCI
 
 Esta sección contiene 3 partes:
-- [Arquitectura de OCI](#Parte1)
+- [Aprendamos un poco sobre la arquitectura de OCI ](#Parte1)
 - [Comparments](#Parte2)
 - [Laboratorio 1](#Parte2)
 
