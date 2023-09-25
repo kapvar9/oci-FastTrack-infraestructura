@@ -64,4 +64,5 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
 1. Ahora volvemos al menu 🍔, seleccionamos Compute ➡️ Instances
    
   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-5.png)
-   
+
+1. Verificamos que estemos en el compartment correspondiente a nuestro usuario asignado.
