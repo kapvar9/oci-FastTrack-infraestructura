@@ -4,7 +4,7 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
 
 Para ello, debemos seguir los siguientes pasos:
 - [Paso 1: Ingresar a Live Labs](#Paso1)
-- [Paso 2: Activar tu ambiente de trabajo](#Paso2)
+- [Paso 2: Activar tu ambiente de laboratorio](#Paso2)
 - [Paso 3: Configurar tu ambiente de laboratorio](#Paso3)
 
  ## <a name="Paso1"></a> Paso 1: Ingresar a Live Labs
