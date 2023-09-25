@@ -2,17 +2,9 @@
 
 Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por Oracle. 
 
-Para ello, debemos seguir los siguientes pasos:
-- [Paso 1: Ingresar a Live Labs](#Paso1)
-- [Paso 2: Activar tu ambiente de laboratorio](#Paso2)
-- [Paso 3: Configurar tu ambiente de laboratorio](#Paso3)
-
-
 <details>
 
 <summary> Paso 1: Ingresar a Live Labs</summary>
-
-##<a name="Paso1"></a> Paso 1: Ingresar a Live Labs
  
 1.  Acceder a la página de LiveLabs Home ➡️ https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/home?session=14060790907614
 
@@ -37,8 +29,6 @@ Para ello, debemos seguir los siguientes pasos:
 <details>
 
 <summary> Paso 2: Activar tu ambiente de laboratorio </summary>
-
- ##<a name="Paso2"></a> Paso 2: Activar tu ambiente de laboratorio
 
  1. Luego de dar clic en _"Start"_, nos aparecerá un recuadro con 2 opciones, elegimos la segunda _"Run on LiveLabs Sandbox"_
 
@@ -67,8 +57,6 @@ Para ello, debemos seguir los siguientes pasos:
 <details>
 
 <summary> Paso 3: Configurar tu ambiente de laboratorio </summary>
-
- ##<a name="Paso3"></a> Paso 3: Configurar tu ambiente de laboratorio
 
  1. Luego de dar clic a _"Launch Workshop"_, nos aparecerá una página con el paso a paso del laboratorio. Hacemos clic en _"View Login Info"_ para ver nuestros datos de la reserva
 
