@@ -64,6 +64,32 @@ Para ello, debemos seguir los siguientes pasos:
    Apuntemos en un bloc de notas, el _"username"_ y el _"password"_ de OCI
 
  2. Hacemos clic en _"Launch Oci"_ y nos redireccionara a la página de OCI. Debemos verificar que nuestro usuario y el tenancy sean los correctos 🕵️‍♀️ Caso contrario, tenemos que cambiarlo de acuerdo a los datos de la reserva
+    
      ![imagen](/PrimerosPasos/imagenes/paso12.png)
 
+  3. Colocamos los datos del _"username"_ y _"password"_ de OCI y hacemos clic en _"Conectar"_
+
+      ![imagen](/PrimerosPasos/imagenes/paso13.png)
+
+ 4. OCI nos pedirá cambiar nuestra contraseña. La cambiamos y damos clic en _"Restablecer contraseña"_
+
+     ![imagen](/PrimerosPasos/imagenes/paso14.png)
+
+ 5. Volvemos a la página del workshop, vamos a los datos de la reserva y damos clic en _"Launch OCI"_ de nuevo
+
+     ![imagen](/PrimerosPasos/imagenes/paso15.png)
+
+ 6. Verificas que los datos estén correctos y te loggeas con la nueva contraseña
+
+     ![imagen](/PrimerosPasos/imagenes/paso16.png)
+
+7. Te aparecerá una ventana de verificación segura, haz clic en _"Activar verificación segura"_
+
+   ![imagen](/PrimerosPasos/imagenes/paso17.png)
+
+8. Elegimos la opción de _"Aplicación móvil"_
+
+   ![imagen](/PrimerosPasos/imagenes/paso17.png)
+
+9. 
     
