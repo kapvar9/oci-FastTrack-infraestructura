@@ -12,3 +12,14 @@ Para saber más, puedes consultar la documentación de OCI 🤓➡️ https://do
 
 ## Laboratorio 2: Exploremos una VCN
 
+1. En el menú 🍔, vamos a Networking ➡️ Virtual Cloud Network
+
+   ![imagen](../Lab2-VCN/Imagenes/lab2-1.png)
+   
+2. Seleccionamos el compartment del laboratorio, ahí encontraremos la VNC
+
+   ![imagen](../Lab2-VCN/Imagenes/lab2-2.png)
+   
+3. Hacemos clic en la VNC para ver su recursos
+
+   ![imagen](../Lab2-VCN/Imagenes/lab2-3.png)
