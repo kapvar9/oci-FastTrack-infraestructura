@@ -23,3 +23,5 @@ Para saber más, puedes consultar la documentación de OCI 🤓➡️ https://do
 3. Hacemos clic en la VNC para ver su recursos
 
    ![imagen](../Lab2-VCN/Imagenes/lab2-3.png)
+
+**Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 3](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab3-MaquinasVirtuales/Readme.md)**
