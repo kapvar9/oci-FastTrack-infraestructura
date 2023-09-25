@@ -105,6 +105,12 @@ Para ello, debemos seguir los siguientes pasos:
 
     ![imagen](/PrimerosPasos/imagenes/paso21.png)
 
-12. 
+12. Para finalizar, volvemos a la página del laboratorio y vamos a la sección de las credenciales. Hacemos clic en _"Launch Remote Desktop"_
 
-    
+    ![imagen](/PrimerosPasos/imagenes/paso22.png)
+
+   Se abrirá una pestaña con nuestro escritorio remoto
+
+   ![imagen](/PrimerosPasos/imagenes/paso23.png)
+
+**_BRAVO!🤩 Ahora ya estamos listos para empezar_** 🚀
