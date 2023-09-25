@@ -5,6 +5,7 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
 Para ello, debemos seguir los siguientes pasos:
 - [Paso 1: Ingresar a Live Labs](#Paso1)
 - [Paso 2: Activar tu ambiente de trabajo](#Paso2)
+- [Paso 3: Configurar tu ambiente de laboratorio](#Paso3)
 
  ## <a name="Paso1"></a> Paso 1: Ingresar a Live Labs
  
@@ -26,7 +27,7 @@ Para ello, debemos seguir los siguientes pasos:
 
 **_Super! Ya casi estás listo para empezar con el workshop_** 🚀
 
- ## <a name="Paso2"></a> Paso 2: Activar tu ambiente de trabajo
+ ## <a name="Paso2"></a> Paso 2: Activar y reservar tu ambiente de trabajo en LiveLabs
 
  1. Luego de dar clic en _"Start"_, nos aparecerá un recuadro con 2 opciones, elegimos la segunda _"Run on LiveLabs Sandbox"_
 
@@ -36,4 +37,18 @@ Para ello, debemos seguir los siguientes pasos:
 
     ![imagen](/PrimerosPasos/imagenes/paso6.png)
 
-3. 
+3. La página te redigirá a la sección de _"My Reservations"_. Aparecerá tu reserva del ambiente de trabajo. Tomará unos minutos en crearse.
+
+   ![imagen](/PrimerosPasos/imagenes/paso7.png)
+
+   También te llegará un correo que te avisará cuando tu ambiente haya terminado de crearse
+
+   ![imagen](/PrimerosPasos/imagenes/paso8.png)
+
+4. Cuando tu ambiente este listo, dale clic a _"Launch Workshop"_
+
+    ![imagen](/PrimerosPasos/imagenes/paso9.png)
+
+**_Genial! Ahora ya podemos empezar_** 🚀
+
+ ## <a name="Paso3"></a> Paso 3: Configurar tu ambiente de laboratorio
