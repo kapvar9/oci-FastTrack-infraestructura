@@ -2,7 +2,7 @@
 
 Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por Oracle. Para poder realizar el Workshop, debemos seguir estos pasos primero para preparar nuestro ambiente 🤩 
 
-##Paso a paso 👣
+## Paso a paso 👣
 
 <details>
 
