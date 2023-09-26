@@ -30,23 +30,23 @@ a.	**Bucket Name:** "Ingrese un nombre para su Bucket".
 b.	**Default Storage Tier:** Standard. 
 c.	**Enable Object Versioning:** Activado.
 
-![imagen](../Lab5-ObjectStorage/Imagenes/Imagen15.png)
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen16.png)
 
 ### Tarea 2: Configuración de Bucket.
 1.	En su Bucket, haga clic en el ícono de tres puntos y luego seleccione la opción **Edit**.
 
-![imagen](../Lab5-ObjectStorage/Imagenes/Imagen16.png)
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen17.png)
 
 2.	Cambie la visibilidad a "Public", desmarque la opción "Allow users to list objects from this bucket" y haga clic en **Save Changes.**
 
-![imagen](../Lab5-ObjectStorage/Imagenes/Imagen17.png)
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen18.png)
 
 ### Tarea 3: Formatear el Block Volume y montar en la instancia
 
 1. Ingrese a su Bucket.
 2. Haga clic en **Objects**, en el menú del izquierdo, y de cluc en **Upload**
  
- ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen18.png) 
+ ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen19.png) 
 
 3.	Copie el html a continuación y cree el archivo index.html usando un editor de texto (bloc de notas) Nota: Recuerda guardar el archivo con la extensión ".html" 
     ```sh
@@ -71,16 +71,16 @@ c.	**Enable Object Versioning:** Activado.
 
 4.	Una vez hecho esto, arrástrelo y suéltelo en el campo del depósito indicado y haga clic en **Upload**.
 
- ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen19.png)
+ ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen20.png)
 
 5.	Para el objeto, haga clic en el icono de tres puntos y haga clic en **View Object Details**.
 
-![imagen](../Lab5-ObjectStorage/Imagenes/Imagen20.png) 
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen21.png) 
 
 6. Haga clic en el URI indicado y verifique si el sitio está disponible.
-![imagen](../Lab5-ObjectStorage/Imagenes/Imagen21.png) <br>
-
 ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen22.png) <br>
+
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen23.png) <br>
 
 ## Conclusión
 En esta sesión aprendió sobre el almacenamiento de objetos en la práctica.
