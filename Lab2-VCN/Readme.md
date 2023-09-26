@@ -19,6 +19,7 @@ _**Tiempo estimado para el laboratorio**_: 15 minutos
 Objetivos:
 - Explorar una Red Virtual en la Nube (VCN)
 
+
 1. En el menú 🍔, vamos a Networking ➡️ Virtual Cloud Network
 
    ![imagen](../Lab2-VCN/Imagenes/lab2-1.png)
