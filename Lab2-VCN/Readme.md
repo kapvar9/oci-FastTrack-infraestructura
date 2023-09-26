@@ -17,7 +17,7 @@ En este laboratorio, aprenderás a explorar una Red Virtual en la Nube (VCN) y s
 _**Tiempo estimado para el laboratorio**_: 15 minutos
 
 Objetivos:
--Explorar una Red Virtual en la Nube (VCN)
+- Explorar una Red Virtual en la Nube (VCN)
 
 1. En el menú 🍔, vamos a Networking ➡️ Virtual Cloud Network
 
