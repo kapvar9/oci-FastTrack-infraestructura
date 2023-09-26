@@ -52,6 +52,15 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
 
 ## Laboratorio 1: Exploremos un compartment
 
+En este laboratorio, explorarás la característica Compartimento dentro de Oracle Cloud Infrastructure.
+
+_**Tiempo estimado para el laboratorio**_: 10 minutos
+
+Objetivos:
+- Acceder a la Consola de Oracle Cloud
+- Familiarizarse con la interfaz de OCI
+- Explorar el Compartimento
+
 1. Accedamos a nuestra consola de OCI
    
    ![imagen](../PrimerosPasos/imagenes/paso21.png)
