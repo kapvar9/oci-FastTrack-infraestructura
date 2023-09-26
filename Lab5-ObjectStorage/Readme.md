@@ -18,28 +18,35 @@ En este laboratorio aprenderá cómo trabajar con Object Storage dentro de Oracl
 ### Tarea 1: Crear un Bucket.
 
 1. En el menú principal, de clic en la sección de **Storage** y posteriormente dirígete a **Buckets** 
-IMAGEN 
+
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen14.png)
+
 2.	Luego haga clic en **Create Bucket**.
 
-IMAGEN 
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen15.png)
+
 3. Complete el formulario como se muestra a continuación y haga clic en **Create**
 a.	**Bucket Name:** "Ingrese un nombre para su Bucket".
 b.	**Default Storage Tier:** Standard. 
 c.	**Enable Object Versioning:** Activado.
 
-IMAGEN 
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen15.png)
 
 ### Tarea 2: Configuración de Bucket.
 1.	En su Bucket, haga clic en el ícono de tres puntos y luego seleccione la opción **Edit**.
-IMAGEN 
+
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen16.png)
+
 2.	Cambie la visibilidad a "Public", desmarque la opción "Allow users to list objects from this bucket" y haga clic en **Save Changes.**
-IMAGEN
+
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen17.png)
 
 ### Tarea 3: Formatear el Block Volume y montar en la instancia
 
 1. Ingrese a su Bucket.
 2. Haga clic en **Objects**, en el menú del izquierdo, y de cluc en **Upload**
- IMAGEN 
+ 
+ ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen18.png) 
 
 3.	Copie el html a continuación y cree el archivo index.html usando un editor de texto (bloc de notas) Nota: Recuerda guardar el archivo con la extensión ".html" 
     ```sh
@@ -63,15 +70,17 @@ IMAGEN
 
 
 4.	Una vez hecho esto, arrástrelo y suéltelo en el campo del depósito indicado y haga clic en **Upload**.
-IMAGEN 
+
+ ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen19.png)
 
 5.	Para el objeto, haga clic en el icono de tres puntos y haga clic en **View Object Details**.
 
-IMAGEN 
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen20.png) 
 
 6. Haga clic en el URI indicado y verifique si el sitio está disponible.
-IMAGEN 
-IMAGEN 
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen21.png) <br>
+
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen22.png) <br>
 
 ## Conclusión
 En esta sesión aprendió sobre el almacenamiento de objetos en la práctica.
