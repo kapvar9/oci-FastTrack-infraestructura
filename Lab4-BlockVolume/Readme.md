@@ -15,7 +15,7 @@ En este laboratorio aprenderá cómo trabajar con Block Storage dentro de Oracle
 
 ### Tarea 1: Crear un Block Volume.
 
-1.	En el menú principal, diríjase a la sección de Storage, posteriormente de click en Block Volume.
+1.	En el menú principal, diríjase a la sección de Storage, posteriormente de click en Block Volume.<br>
 
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen1.png)
 
@@ -32,25 +32,25 @@ e.	**Volume Performance:** Balanced.
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen3.png)
 
 ### Tarea 2: Conectar el Block Volume a una instancia de cómputo.
-1.	En el menú principal, diríjase a Computo, posteriormente de clic en Virtual Instance para acceder a la instancia previamente aprovisionada.
+1.	En el menú principal, diríjase a Computo, posteriormente de clic en Virtual Instance para acceder a la instancia previamente aprovisionada.<br>
 
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen4.png)
 
-2.	En esta sección encontrará todas las instancias de computo que ha creado, seleccione la instancia correspondiente, después desplácese hacia abajo e la página, y en el menú **“Resources”**, haga clic en **"Attached Block Volumes"**, y **"Attach block volumen"**.
+2.	En esta sección encontrará todas las instancias de computo que ha creado, seleccione la instancia correspondiente, después desplácese hacia abajo e la página, y en el menú **“Resources”**, haga clic en **"Attached Block Volumes"**, y **"Attach block volumen"**.<br>
    
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen5.png)
 
 3.	Complete el formulario como se muestra a continuación y haga clic en **Attach**.
 a.	**Devide path:** /dev/oracleoci/oraclevdb.
-b.	**Attachment type:** ISCSI.
+b.	**Attachment type:** ISCSI.<br>
 
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen6.png)
 
-4.	En el lado derecho, haga clic en el ícono de tres puntos y en iSCSI Commands & Information.
+4.	En el lado derecho, haga clic en el ícono de tres puntos y en iSCSI Commands & Information.<br>
 
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen7.png)
 
-5. Copie el comando para 'Connect' y haga clic en **Close.**
+5. Copie el comando para 'Connect' y haga clic en **Close.**<br>
 
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen8.png) 
 
@@ -61,7 +61,7 @@ b.	**Attachment type:** ISCSI.
     sudo su -
     <comando-connect>
     ```
-    En este punto, estamos accediendo a la máquina, usando el usuario root y ejecutando el comando “attach”.
+    En este punto, estamos accediendo a la máquina, usando el usuario root y ejecutando el comando “attach”.<br>
     
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen9.png)
     
@@ -69,6 +69,7 @@ b.	**Attachment type:** ISCSI.
     ```sh
     fdisk -l
     ```
+    <br>
    ![imagen](../Lab4-BlockVolume/Imagenes/Imagen10.png) 
     
 ### Tarea 3: Formatear el Block Volume y montar en la instancia
