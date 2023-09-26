@@ -22,7 +22,7 @@ _Tiempo estimado para terminar el Workshop_: 8 horas
   
 ### ¡Accede a la secuencia de laboratorios! ⬇
 - [Laboratorio 1 - Explorar un compartimento](Lab1-Compartimentos/Readme.md)
-- [Laboratorio 2 - Explorar un Virtual Cloud Network (VCN)](Lab2-VCN)
+- [Laboratorio 2 - Explorar un Virtual Cloud Network (VCN)](Lab2-VCN/Readme.md)
 - [Laboratorio 3 - Crear máquinas virtuales](Lab3-MaquinasVirtuales/Readme.md)
 - [Laboratorio 4 - Crear un block volume]
 - [Laboratorio 5 - Crear un bucket]
