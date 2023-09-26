@@ -9,7 +9,7 @@ En este laboratorio aprenderá cómo trabajar con Block Storage dentro de Oracle
 
 ### Objetivos
 
-- 	Crear un Block Volume de 500GB.
+- Crear un Block Volume de 500GB.
 - Adjuntar un Block Volume a una instancia de cómputo.
 
 
@@ -30,7 +30,7 @@ IMAGEN
 ### Tarea 2: Conectar el Block Volume a una instancia de cómputo.
 1.	En el menú principal, diríjase a Computo, posteriormente de clic en Virtual Instance para acceder a la instancia previamente aprovisionada.
 IMAGEN 
-2.	2.	En esta sección encontrará todas las instancias de computo que ha creado, seleccione la instancia correspondiente, después desplácese hacia abajo e la página, y en el menú **“Resources”**, haga clic en **"Attached Block Volumes"**, y **"Attach block volumen"**.
+2.	En esta sección encontrará todas las instancias de computo que ha creado, seleccione la instancia correspondiente, después desplácese hacia abajo e la página, y en el menú **“Resources”**, haga clic en **"Attached Block Volumes"**, y **"Attach block volumen"**.
 IMAGEN
 3.	Complete el formulario como se muestra a continuación y haga clic en **Attach**.
 a.	**Devide path:** /dev/oracleoci/oraclevdb.
