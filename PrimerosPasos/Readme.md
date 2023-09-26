@@ -115,6 +115,5 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
 
    ![imagen](../PrimerosPasos/imagenes/paso23.png)
 
-**_BRAVO!👏 Ahora ya estamos listos para empezar_** 🚀
-**_Continuemos con el primer laboratorio 🤩👉 [Laboratorio 1](https://github.com/kapvar9/oci-FastTrack-infraestructura/tree/main/Lab1-Compartimentos)**
+**BRAVO!👏 Ahora ya estamos listos para empezar! Continuemos con el primer laboratorio 🤩👉 [Laboratorio 1](https://github.com/kapvar9/oci-FastTrack-infraestructura/tree/main/Lab1-Compartimentos)**
 
