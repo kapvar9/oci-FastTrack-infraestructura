@@ -137,5 +137,7 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
      * El usuario por defecto de las instancias Linux es OPC
 
      ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-17.png)
+
+     **Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 4](https://github.com/kapvar9/oci-FastTrack-infraestructura/tree/main/Lab4-BlockVolume#creaci%C3%B3n-de-un-block-volume)**
    
    
