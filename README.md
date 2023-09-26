@@ -18,7 +18,7 @@ _Tiempo estimado para terminar el Workshop_: 8 horas
 > [!IMPORTANT]
 > Antes de empezar, recuerda revisar la sección de Primeros Pasos
 
-- [Primeros pasos en OCI](PrimerosPasos/Readme.md)
+- [Configuración del ambiente de laboratorio](PrimerosPasos/Readme.md)
   
 ### ¡Accede a la secuencia de laboratorios! ⬇
 - [Laboratorio 1 - Explorar un compartimento](Lab1-Compartimentos/Readme.md)
