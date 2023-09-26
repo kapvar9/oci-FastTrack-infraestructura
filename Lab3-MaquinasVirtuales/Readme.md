@@ -126,7 +126,7 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
 
   1. Copiamos la IP privada de una nuestras instancias
      
-     ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-16.png)
+     ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-18.png)
 
   2. Volvemos al Escritorio Remoto, y en el terminal, hacemos la conexión con la máquina creada usando el siguiente comando
 
