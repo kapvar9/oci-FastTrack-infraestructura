@@ -16,6 +16,7 @@ En este laboratorio aprenderá cómo trabajar con Block Storage dentro de Oracle
 ### Tarea 1: Crear un Block Volume.
 
 1.	En el menú principal, diríjase a la sección de Storage, posteriormente de click en Block Volume.
+
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen1.png)
 
 3.	Haga click en Create Block Volume y complete la información del formulario como se muestra a continuación, para finalizar haga clic en Crear Block Volume.
@@ -27,27 +28,33 @@ e.	**Volume Performance:** Balanced.
 
 ** *Seleccione Availability Domain (AD) para el Block Volume igual que el de la instancia de computo creada anteriormente* **
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen2.png)
-<br>
+
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen3.png)
 
 ### Tarea 2: Conectar el Block Volume a una instancia de cómputo.
 1.	En el menú principal, diríjase a Computo, posteriormente de clic en Virtual Instance para acceder a la instancia previamente aprovisionada.
+
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen4.png)
-<br>
-3.	En esta sección encontrará todas las instancias de computo que ha creado, seleccione la instancia correspondiente, después desplácese hacia abajo e la página, y en el menú **“Resources”**, haga clic en **"Attached Block Volumes"**, y **"Attach block volumen"**.
-<br>
+
+2.	En esta sección encontrará todas las instancias de computo que ha creado, seleccione la instancia correspondiente, después desplácese hacia abajo e la página, y en el menú **“Resources”**, haga clic en **"Attached Block Volumes"**, y **"Attach block volumen"**.
+   
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen5.png)
-<br>
-5.	Complete el formulario como se muestra a continuación y haga clic en **Attach**.
+
+3.	Complete el formulario como se muestra a continuación y haga clic en **Attach**.
 a.	**Devide path:** /dev/oracleoci/oraclevdb.
 b.	**Attachment type:** ISCSI.
+
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen6.png)
 
-6.	En el lado derecho, haga clic en el ícono de tres puntos y en iSCSI Commands & Information.
+4.	En el lado derecho, haga clic en el ícono de tres puntos y en iSCSI Commands & Information.
+
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen7.png)
-7. Copie el comando para 'Connect' y haga clic en **Close.**
+
+5. Copie el comando para 'Connect' y haga clic en **Close.**
+
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen8.png) 
-8.	En Terminal, conéctese inicialmente a la instancia informática y ejecute el comando copiado.
+
+6.	En Terminal, conéctese inicialmente a la instancia informática y ejecute el comando copiado.
 
     ```sh
     ssh opc@<ip-da-máquina>
