@@ -42,13 +42,41 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
 
    ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-3.png)
 
-  * Selecciona y copia el contenido de la llave. Usaremos esto para la creación de las máquinas virtuales.
+  * Selecciona y copia el contenido de la llave. Usaremos esto para la creación de las máquinas virtuales. Recuerda copiar el texto en el área de transferencia del Escritorio Remoto
     
     ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-2.png)
 
   _Para la creación de la VM, usaremos una llave pública y para la conexión, usaremos la llave privada_
 
-   > **Note:** Copia el contenido de la llave dentro del área de transferencia del Escritorio Rmeoto para falicitar el proceso de 
+   ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-4.png)
      
-4. 
+### Paso 2: Crear 2 máquinas virtuales Oracle Linux
+
+1. En el menú 🍔, vamos a Compute ➡️ Instances
+
+   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-5.png)
+   
+2. En "Compute", haz clic en _"Create Instance"_
+
+   ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-5.png)
+
+    Estos serán los datos de tu instancia:
+    * Nombre de tu instancia: VM-OracleLinux-AD2
+    * Dominio de Disponibilidad: AD 2
+    * Sistema Operativo: Oracle Linux 7.9
+    * Tipo de Instancia: Máquina Virtual
+    * Forma de la Instancia: AMD VM.Standard.E4.Flex
+    * Elija el Archivo de Clave SSH: Inserta el archivo de clave pública SSH (.pub)
+    * Compartimento de la Red de Nube Virtual: "Tu Compartimento"
+    * Red de Nube Virtual: "Tu VCN"
+    * Compartimento de Subred: "Tu Compartimento"
+    * Subred: Subred Pública
+  
+      > **Note:** Recuerda que tus máquinas virtuales deben estar en ADs diferentes. Hay una máquina creada por defecto con el ambiente y que se encuentra en un AD en específico. Las nuevas máquinas deben ser creadas en los otros ADs que quedan
+      ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-6.png)
+
+    _En el ejemplo, la máquina por defecto se encuentra en el AD1 así que las 2 nuevas máquinas deberán ser creadas en el AD 2 y el AD 3_
+      
+3. 
+
    
