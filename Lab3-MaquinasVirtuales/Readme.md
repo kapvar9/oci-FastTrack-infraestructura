@@ -97,6 +97,29 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
 
     ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-12.png)
 
-4. 
+4. Selecciona la VCN y la subnet pública creadas por defecto, y eliga la opción de _"Asignar una dirección IPv4 pública"_
 
+   ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-13.png)
+
+5. Colocamos la llave pública SSH creada en el paso 3 y clic en _"Create"_
+
+   ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-14.png)
+
+  Tu instancia tomará unos minutos en crearse. Si esta todo OK🤞, quedará como la imagen ⤵️
+  
+  ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-15.png)
+
+6. Realizamos los mismos pasos para crear la MV2. La crearemos en el AD restante.
+   Estos serán los datos de tu instancia:
+    * Nombre de tu instancia: VM-OracleLinux-AD3
+    * Dominio de Disponibilidad: AD 3
+    * Sistema Operativo: Oracle Linux 7.9
+    * Tipo de Instancia: Máquina Virtual
+    * Forma de la Instancia: AMD VM.Standard.E4.Flex
+    * Elija el Archivo de Clave SSH: Inserta el archivo de clave pública SSH (.pub)
+    * Compartimento de la Red de Nube Virtual: "Tu Compartimento"
+    * Red de Nube Virtual: "Tu VCN"
+    * Compartimento de Subred: "Tu Compartimento"
+    * Subred: Subred Pública
+  
    
