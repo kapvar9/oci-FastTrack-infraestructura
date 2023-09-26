@@ -15,7 +15,7 @@ Al final de este taller, la arquitectura creada será la siguiente:
 
 _Tiempo estimado para terminar el Workshop_: 8 horas
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > Antes de empezar, recuerda revisar la sección de Primeros Pasos
 
 - [Primeros pasos en OCI](PrimerosPasos/Readme.md)
