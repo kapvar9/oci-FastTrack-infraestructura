@@ -12,7 +12,16 @@ Para saber más, puedes consultar la documentación de OCI 🤓➡️ https://do
 
 ## Laboratorio 3: Creación de máquinas virtuales
 
-En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual debe estar en un AD diferente**. Para ellos seguiremos los siguientes pasos:
+En este laboratorio, aprenderás a crear 2 máquinas virtuales Linux.
+
+_**Tiempo estimado para el laboratorio**_: 35 minutos
+
+Objetivos:
+- Crear un par de claves SSH en OCI Cloud Shell
+- Crear 2 máquinas virtuales (VM) Linux
+- Acceder a las instancias
+
+**Cada máquina virtual debe estar en un AD diferente**. Para ellos seguiremos los siguientes pasos:
 - [Paso 1: Crear un par de llaves SSH](#paso-1-crear-un-par-de-llaves-ssh)
 - [Paso 2: Crear 2 máquinas virtuales Oracle Linux](#paso-2-crear-2-máquinas-virtuales-oracle-linux)
 - [Paso 3: Acceder a la VM por el terminal](#paso-3-acceder-a-la-vm-por-el-terminal)
