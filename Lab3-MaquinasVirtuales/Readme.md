@@ -121,5 +121,21 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
     * Red de Nube Virtual: "Tu VCN"
     * Compartimento de Subred: "Tu Compartimento"
     * Subred: Subred Pública
-  
+
+  ### Paso 3: Acceder a la VM por el terminal
+
+  1. Copiamos la IP privada de una nuestras instancias
+     
+     ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-16.png)
+
+  2. Volvemos al Escritorio Remoto, y en el terminal, hacemos la conexión con la máquina creada usando el siguiente comando
+
+     ```
+     ssh opc@<ip privado da VM>
+     ```
+
+     * El usuario por defecto de las instancias Linux es OPC
+
+     ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-17.png)
+   
    
