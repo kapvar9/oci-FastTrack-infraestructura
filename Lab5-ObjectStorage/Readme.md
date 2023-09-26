@@ -78,9 +78,9 @@ c.	**Enable Object Versioning:** Activado.
 ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen21.png) 
 
 6. Haga clic en el URI indicado y verifique si el sitio está disponible.
-![imagen](../Lab5-ObjectStorage/Imagenes/Imagen22.png) <br>
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen22.png) 
 
-![imagen](../Lab5-ObjectStorage/Imagenes/Imagen23.png) <br>
+![imagen](../Lab5-ObjectStorage/Imagenes/Imagen23.png) 
 
 ## Conclusión
 En esta sesión aprendió sobre el almacenamiento de objetos en la práctica.
