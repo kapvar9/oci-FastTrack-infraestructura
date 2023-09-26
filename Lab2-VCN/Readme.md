@@ -12,6 +12,13 @@ Para saber más, puedes consultar la documentación de OCI 🤓➡️ https://do
 
 ## Laboratorio 2: Exploremos una VCN
 
+En este laboratorio, aprenderás a explorar una Red Virtual en la Nube (VCN) y sus recursos.
+
+_**Tiempo estimado para el laboratorio**_: 15 minutos
+
+Objetivos:
+-Explorar una Red Virtual en la Nube (VCN)
+
 1. En el menú 🍔, vamos a Networking ➡️ Virtual Cloud Network
 
    ![imagen](../Lab2-VCN/Imagenes/lab2-1.png)
