@@ -38,7 +38,7 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
    ```
    cat ~/.ssh/id_rsa.pub
    ```
-  > **Note:** Si no sabes la combinación de teclas para el símbolo "~" (virgulilla), busca el símbolo y copialo en el área de transferencia del Escritorio Remoto. Luego de ello, pégalo dentro del terminal usando _clic derecho + pegar_. Puedes hacer esto para facilitar el copiado/pegado de texto entre tu escritorio y el escritorio remoto.
+  > **Nota:** Si no sabes la combinación de teclas para el símbolo "~" (virgulilla), busca el símbolo y copialo en el área de transferencia del Escritorio Remoto. Luego de ello, pégalo dentro del terminal usando _clic derecho + pegar_. Puedes hacer esto para facilitar el copiado/pegado de texto entre tu escritorio y el escritorio remoto.
 
    ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-3.png)
 
@@ -76,11 +76,10 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
    
       ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-7.png)
   
-      > **Note:** Recuerda que tus máquinas virtuales deben estar en ADs diferentes. Hay una máquina creada por defecto con el ambiente y que se encuentra en un AD en específico. Las nuevas máquinas deben ser creadas en los otros ADs que quedan
+      > **Nota:** Recuerda que tus máquinas virtuales deben estar en ADs diferentes. Hay una máquina creada por defecto con el ambiente y que se encuentra en un AD en específico. Las nuevas máquinas deben ser creadas en los otros ADs que quedan
       ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-6.png)
+      > _En el ejemplo, la máquina por defecto se encuentra en el AD1 así que las 2 nuevas máquinas deberán ser creadas en el AD 2 y el AD 3_
 
-    _En el ejemplo, la máquina por defecto se encuentra en el AD1 así que las 2 nuevas máquinas deberán ser creadas en el AD 2 y el AD 3_
-      
 3. Elige la imagen y el shape de tu MV. Haz clic en _"Change Image"_ para cambiar la imagen y en _"Change shape"_ para cambiar el shape
 
    ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-8.png)
