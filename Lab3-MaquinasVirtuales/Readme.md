@@ -1,8 +1,8 @@
 # Creación de maquinas virtuales
 
 Esta sección contiene 2 partes:
-- [Máquinas Virtuales](#aprendamos-un-poco-sobre-lo-que-es-una-vcn)
-- [Laboratorio 3](#laboratorio-2-exploremos-una-vcn)
+- [Máquinas Virtuales](#aprendamos-un-poco-sobre-las-máquinas-virtuales)
+- [Laboratorio 3](#laboratorio-3-creación-de-máquinas-virtuales)
 
 ## Aprendamos un poco sobre las máquinas virtuales 
 
