@@ -16,7 +16,7 @@ En este laboratorio aprenderá cómo trabajar con Block Storage dentro de Oracle
 ### Tarea 1: Crear un Block Volume.
 
 1.	En el menú principal, diríjase a la sección de Storage, posteriormente de click en Block Volume.
-IMAGEN 
+![imagen](../Lab4-BlockVolume/Imagenes/Imagen1.png)
 2.	Haga click en Create Block Volume y complete la información del formulario como se muestra a continuación, para finalizar haga clic en Crear Block Volume.
 a.	**Name:** block_vol500GB.
 b.	**Create in compartment:** <Su-compartimiento>. 
