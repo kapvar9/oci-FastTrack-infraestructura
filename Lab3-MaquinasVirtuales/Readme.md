@@ -69,10 +69,10 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
     * Elija el Archivo de Clave SSH: Inserta el archivo de clave pública SSH (.pub)
     * Compartimento de la Red de Nube Virtual: "Tu Compartimento"
     * Red de Nube Virtual: "Tu VCN"
-    * Compartimento de Subred: "Tu Compartimento"
+    * Compartimento de Subred: "Tu Compartimento" (Creado por defecto en el ambiente)
     * Subred: Subred Pública
 
-     Llena los datos según lo indicado
+     Llena los datos según lo indicado. Recuerda que ya tienes un compartment creador por defecto. Debes elegir ese 🤓☝️
    
       ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-7.png)
   
