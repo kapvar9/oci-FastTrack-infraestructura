@@ -72,7 +72,7 @@ En este laboratorio crearemos 2 máquinas virtuales. **Cada máquina virtual deb
     * Compartimento de Subred: "Tu Compartimento" (Creado por defecto en el ambiente)
     * Subred: Subred Pública
 
-     Llena los datos según lo indicado. Recuerda que ya tienes un compartment creador por defecto. Debes elegir ese 🤓☝️
+     Llena los datos según lo indicado. **Recuerda que ya tienes un compartment creador por defecto. Debes elegir ese** 🤓☝️
    
       ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-7.png)
   
