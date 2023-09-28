@@ -156,7 +156,7 @@ Una vez completado el proceso de creación, tendrás la siguiente información: 
 
 6. Para simular un entorno de aplicación, necesitamos iniciar un servicio web en ambas instancias de Computo.
 *Para obtener resultados diferentes de las llamadas del Load Balancer, agregue contenido diferente al archivo Index.html en cada cálculo.*
-![imagen](../Lab6-LoadBalancer/Imagenes/Imagen12.png)
+![imagen](../Lab6-LoadBalancer/Imagenes/Imagen13.png)
 7. Utilice la IP privada del equilibrador de carga en el navegador noVNC para ver que su aplicación se dirige a los 2 servidores con diferentes respuestas en el archivo Index.html.
 
 ## Conclusion 
