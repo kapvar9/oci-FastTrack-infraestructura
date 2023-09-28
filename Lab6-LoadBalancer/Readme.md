@@ -103,9 +103,9 @@ b. Una vez que haya iniciado sesión, cambie su usuario a ROOT con el comando:
     ```
    
 
-3.	Pruebe el comportamiento de Apache, todo lo que necesita hacer es usar la **IP privada de la instancia de computo** (VM-OracleLinux-AD1) en el navegador web VNC para ver si aparece la página de inicio de Apache.
+3.	Pruebe el comportamiento de Apache, todo lo que necesita hacer es usar la **IP privada de la instancia de computo** (VM-OracleLinux-AD1) en el navegador web VNC para ver si aparece la página de inicio de Apache.<br>
 
-![imagen](../Lab6-LoadBalancer/Imagenes/Imagen2.png)
+![imagen](../Lab6-LoadBalancer/Imagenes/Imagen2.png)<br>
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen3.png)
 
 Si todo está bien, puede probar la instalación de Apache en la segunda VM (VM-OracleLinux-AD2). Todo lo que necesita hacer es usar la dirección IP privada de la segunda instancia en el navegador noVNC y probablemente obtendrá un resultado similar al de la imagen anterior.
@@ -119,9 +119,11 @@ Load Balancer suele tardar 5 minutos en "calibrar" su estado.
 Nuestro objetivo es crear el servicio Load Balancer solo después de que ambos servidores Apache se estén ejecutando, de modo que el servicio Load Balancer tenga un estado "listo" y esté listo para ser probado.
 
 ### Tarea 2: Crear una aplicación en Alta Disponibilidad (HA) con un Load Balancer y 2 servidores web.
-1.	Para acceder a la interfaz de Load Balancer, una vez más, comencemos desde “Menú principal > Load Balancers” 
+1.	Para acceder a la interfaz de Load Balancer, una vez más, comencemos desde “Menú principal > Load Balancers” <br>
+
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen4.png)
-Posteriormente haga clic sobre "Create Load Balancer"
+Posteriormente haga clic sobre "Create Load Balancer" <br>
+
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen5.png)
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen6.png)
 
@@ -131,19 +133,24 @@ Posteriormente haga clic sobre "Create Load Balancer"
 - **Ancho de banda:** 10Mbps
 - **VCN:** <Seleccione su VCN>
 - **Subred:** <Seleccione su subred privada>
-*Elija la subred, la misma subred donde se crearon sus instancias de computo*
-![imagen](../Lab6-LoadBalancer/Imagenes/Imagen7.png)
-![imagen](../Lab6-LoadBalancer/Imagenes/Imagen8.png)
-3.	Establezca la política del Load Balancer y agregue los servidores backend. Para agregar servidores backend, haga clic en el botón azul **"Add backends"** 
+*Elija la subred, la misma subred donde se crearon sus instancias de computo*<br>
+![imagen](../Lab6-LoadBalancer/Imagenes/Imagen7.png) <br>
+![imagen](../Lab6-LoadBalancer/Imagenes/Imagen8.png) <br>
+3.	Establezca la política del Load Balancer y agregue los servidores backend. Para agregar servidores backend, haga clic en el botón azul **"Add backends"** <br>
+
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen9.png)
 
 4. Inserte los servidores del conjunto de backend (sus dos máquinas virtuales Linux):
 
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen10.png)
 
-Una vez completado el proceso de creación, tendrás la siguiente información:
+5. Como último paso, definir el tipo de tráfico que se manejará. <br>
 
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen11.png)
+
+Una vez completado el proceso de creación, tendrás la siguiente información: <br>
+
+![imagen](../Lab6-LoadBalancer/Imagenes/Imagen12.png)
 
 #### Probando nuestro Load Balancer
 
