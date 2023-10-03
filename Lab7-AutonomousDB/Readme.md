@@ -158,9 +158,4 @@ Otra forma de consultar las actividades de la base de datos es que, mientras eje
 12. Seleccione **Monitor**.
 ![selecione "Monitor"](./imagenes/autonomous-database-activity-26.png) 
 
-## Conclusion 
-En esta sesión, aprendió cómo aprovisionar un Oracle Autonomous Data Warehouse. Exploró la herramienta Catalog nativa de esta base de datos autónoma y aprendió a monitorear el rendimiento y las sentencias SQL que se ejecutan en la base de datos.
-
-## Autoria
-- **Autores** - Arthur Vianna, Lucas de Almeida, Luiz de Oliveira, Thais Henrique
-- **Último Update Por/Date** - Arthur Vianna, Jun/2022
+**Super! Terminaste todos los laboratorios! 👏🤩**
