@@ -147,6 +147,6 @@ Objetivos:
 
      ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-17.png)
 
-     **Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 4](https://github.com/kapvar9/oci-FastTrack-infraestructura/tree/main/Lab4-BlockVolume#creaci%C3%B3n-de-un-block-volume)**
+     **Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 4]((https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab5-ObjectStorage/Readme.md))**
    
    
