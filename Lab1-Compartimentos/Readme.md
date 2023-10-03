@@ -81,4 +81,4 @@ Objetivos:
 
   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-6.png)
 
-**Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 2](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab2-VCN/Readme.md)**
+**Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 2 - VCN](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab2-VCN/Readme.md)**
