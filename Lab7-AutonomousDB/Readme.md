@@ -158,4 +158,4 @@ Otra forma de consultar las actividades de la base de datos es que, mientras eje
 12. Seleccione **Monitor**.
 ![selecione "Monitor"](./imagenes/autonomous-database-activity-26.png) 
 
-**Super! Terminaste todos los laboratorios! 👏🤩**
+**Felicitaciones! Terminaste todos los laboratorios! 👏🤩**
