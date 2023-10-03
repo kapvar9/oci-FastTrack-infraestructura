@@ -31,7 +31,10 @@ En este laboratorio aprenderá cómo trabajar con Load Balancer dentro de Oracle
 
 Antes de comenzar a crear el servicio Load Balancer, tenga en cuenta que hay algunas tareas importantes que completar. Para que Load Balancer pruebe cualquier “servicio”, es necesario instalar una aplicación (Apache) en servidores Linux.
 
-
+### Pasos
+- [Tarea 1: Instalar la aplicación de Apache en un servidor Linux](#tarea-1-instalar-la-aplicación-de-apache-en-un-servidor-linux)
+- [Tarea 2: Crear una aplicación en Alta Disponibilidad (HA) con un Load Balancer y 2 servidores web](#tarea-2-crear-una-aplicación-en-alta-disponibilidad-ha-con-un-load-balancer-y-2-servidores-web)
+- [Probando nuestro Load Balancer](#probando-nuestro-load-balancer)
 
 ### Tarea 1: Instalar la aplicación de Apache en un servidor Linux.
 
@@ -159,9 +162,6 @@ Una vez completado el proceso de creación, tendrás la siguiente información: 
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen13.png)
 7. Utilice la IP privada del equilibrador de carga en el navegador noVNC para ver que su aplicación se dirige a los 2 servidores con diferentes respuestas en el archivo Index.html.
 
-## Conclusion 
-En esta sesión usted aprendió a crear una aplicación en Alta Disponibilidad (HA) con un Load Balancer y 2 Servidores Web.
+**Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 7 - Autonomous Database](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab7-AutonomousDB/Readme.md)**
 
-## Autoria
-- **Autores** - Arthur Vianna, Lucas de Almeida, Luiz de Oliveira, Thais Henrique
-- **Último Update Por/Date** - Arthur Vianna, Jun/2022
+   
