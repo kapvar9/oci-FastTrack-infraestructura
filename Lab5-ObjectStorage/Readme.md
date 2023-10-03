@@ -13,7 +13,10 @@ En este laboratorio aprenderá cómo trabajar con Object Storage dentro de Oracl
 - Crear un Bucket en OCI.
 - Crear un site estático utilizando un Bucket.
 
-
+### Pasos
+- [Tarea 1: Crear un Bucket](#tarea-1-crear-un-bucket)
+- [Tarea 2: Configuración de Bucket](#tarea-2-configuración-de-bucket)
+- [Tarea 3: Formatear el Block Volume y montar en la instancia](#tarea-3-formatear-el-block-volume-y-montar-en-la-instancia)
 
 ### Tarea 1: Crear un Bucket.
 
