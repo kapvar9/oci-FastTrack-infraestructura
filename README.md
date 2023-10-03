@@ -24,10 +24,10 @@ _Tiempo estimado para terminar el Workshop_: 8 horas
 - [Laboratorio 1 - Explorar un compartimento](Lab1-Compartimentos/Readme.md)
 - [Laboratorio 2 - Explorar un Virtual Cloud Network (VCN)](Lab2-VCN/Readme.md)
 - [Laboratorio 3 - Crear máquinas virtuales](Lab3-MaquinasVirtuales/Readme.md)
-- [Laboratorio 4 - Crear un block volume]
-- [Laboratorio 5 - Crear un bucket]
-- [Laboratorio 6 - Crear un load balancer]
-- [Laboratorio 7 - Crear una base de datos autónoma (Autonomous Database)]
+- [Laboratorio 4 - Crear un block volume](Lab4-BlockVolume/Readme.md)
+- [Laboratorio 5 - Crear un bucket](Lab5-ObjectStorage/Readme.md)
+- [Laboratorio 6 - Crear un load balancer](Lab6-LoadBalancer/Readme.md)
+- [Laboratorio 7 - Crear una base de datos autónoma (Autonomous Database)](Lab7-AutonomousDB/Readme.md)
 
 
 
