@@ -83,9 +83,5 @@ c.	**Enable Object Versioning:** Activado.
 
 ![imagen](../Lab5-ObjectStorage/Imagenes/Imagen23.png) 
 
-## Conclusión
-En esta sesión aprendió sobre el almacenamiento de objetos en la práctica.
-
-## Autoria
-- **Autores** - Arthur Vianna, Lucas de Almeida, Luiz de Oliveira, Thais Henrique
-- **Último Update Por/Date** - Arthur Vianna, Jun/2022
+**Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 6 - Load Balancer](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab6-LoadBalancer/Readme.md)**
+   
