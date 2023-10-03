@@ -100,9 +100,5 @@ b.	**Attachment type:** ISCSI.<br>
 
 Ahora usted puede seguir con el siguiente Laboratorio 
 
-## Conclusión
-En esta sesión aprendió sobre los Block Volume y como utilizarlos 
-
-## Autoria
-- **Autores** - Arthur Vianna, Lucas de Almeida, Luiz de Oliveira, Thais Henrique
-- **Último Update Por/Date** - Arthur Vianna, Jun/2022
+**Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 5 - Object Storage](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab5-ObjectStorage/Readme.md)**
+   
