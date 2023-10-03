@@ -12,6 +12,10 @@ En este laboratorio aprenderá cómo trabajar con Block Storage dentro de Oracle
 - Crear un Block Volume de 500GB.
 - Adjuntar un Block Volume a una instancia de cómputo.
 
+### Pasos
+- [Tarea 1: Crear un Block Volume](#tarea-1-crear-un-block-volume)
+- [Tarea 2: Conectar el Block Volume a una instancia de cómputo](#tarea-2-conectar-el-block-volume-a-una-instancia-de-cómputo)
+- [Tarea 3: Formatear el Block Volume y montar en la instancia](#tarea-3-formatear-el-block-volume-y-montar-en-la-instancia)
 
 ### Tarea 1: Crear un Block Volume.
 
