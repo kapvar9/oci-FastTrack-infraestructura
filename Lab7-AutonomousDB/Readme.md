@@ -23,6 +23,11 @@ Autonomous Database ofrece 3 tipos de carga de trabajo:
 - Explore los recursos disponibles de forma nativa dentro de la base de datos (Data Tools)
 - Conozca el escalado de OCPU
 - Explorar el Performance Hub
+  
+### Pasos
+- [Tarea 1: Proceso de creación de Autonomous Database](#tarea-1-proceso-de-creación-de-autonomous-database)
+- [Tarea 2: Use los recursos nativos de Autonomous Database](#tarea-2-use-los-recursos-nativos-de-autonomous-database)
+- [Tarea 3: Escalamiento de ECPU y monitoreo de SQL Statements](#tarea-3-escalamiento-de-ecpu-y-monitoreo-de-sql-statements)
 
 ### Tarea 1: Proceso de creación de Autonomous Database
 
