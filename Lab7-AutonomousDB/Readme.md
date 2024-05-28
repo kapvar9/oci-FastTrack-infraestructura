@@ -40,9 +40,9 @@ Autonomous Database ofrece 3 tipos de carga de trabajo:
 - Display Name: Asigne un nombre para su banco de datos.
 - Database name: Asigne un nombre para su banco de datos.
 - Choose a workload type : Para efectos de este ejercicio, seleccione **Data Warehouse**.
-- Choose a deployment type: **Shared Infrastructure**.
+- Choose a deployment type: **Serverless**.
 
-![configure o Autonomous Database](./imagenes/autonomous-database-config-4.png)
+![configure o Autonomous Database](./imagenes/ocpu_serverless.png)
 
 - Choose database version: **19c**.
 - ECPU count:**2**
