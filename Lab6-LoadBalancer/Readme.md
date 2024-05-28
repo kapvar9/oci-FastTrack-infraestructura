@@ -39,52 +39,52 @@ Antes de comenzar a crear el servicio Load Balancer, tenga en cuenta que hay alg
 ### Tarea 1: Instalar la aplicación de Apache en un servidor Linux.
 
 1. Insalar la aplicación de Apache Server en cada servidor.
-a. Conéctese al host de Linux (Ej:VM-OracleLinux-1)  utilizando el usuario opc, recuerde que para conectarse a la instancia debe utilizar la dirección IP privada de la maquina virtual y utilizar el siguiente comando
-    ```sh
-    ssh opc@<ip privada vm>
-    ```
-
-b. Una vez que haya iniciado sesión, cambie su usuario a ROOT con el comando:
-    ```sh
-    sudo su – 
-    ```
-c. Instale el paquete Apache en el sistema operativo
-    ```sh
-    sudo yum install httpd -y
-    ```
-d. Inicie la aplicación Apache
-    ```sh
-    sudo apachectl start
-    ```
-e. Configure el firewall localhost para permitir el tráfico de Apache; para ello utilice los siguientes comandos en Linux:
-    ```sh
-    sudo systemctl enable httpd
-    sudo apachectl configtest
-    sudo firewall-cmd --permanent --zone=public --add-service=http
-    sudo firewall-cmd --reload
-    ```
-f. Para identificar **la primera instancia de computo** utilizada en la interfaz web (Linux - AD1), personalice el archivo **"index.html"**. Utilice el siguiente comando como usuario ROOT:
-
-    **Nota: Primero copie la primera línea de código y péguela. Luego copie el cuerpo del código a </html> y péguelo. Por último, copie la última línea y péguela.**
-
-        cat <<EOF > /var/www/html/index.html
-        <!DOCTYPE html>
-        <html lang="pt-br">
-        <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>OCI FAST TRACK: Webserver 1</title>
-        </head>
-        <body>
-        <center> <img src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id3kyspkytmr/b/workshops-materiais/o/ocifasttracklogo.jpg"
-        alt="LOGO OCI">
-        <h1>Load Balancer Webservers</h1>
-        <center> <img src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id3kyspkytmr/b/workshops-materiais/o/Webserver1.jpg"
-        </center>
-        </body>
-        </html>
-        EOF
-        
+    a. Conéctese al host de Linux (Ej:VM-OracleLinux-1)  utilizando el usuario opc, recuerde que para conectarse a la instancia debe utilizar la dirección IP privada de la maquina virtual y utilizar el siguiente comando
+        ```sh
+        ssh opc@<ip privada vm>
+        ```
+    
+    b. Una vez que haya iniciado sesión, cambie su usuario a ROOT con el comando:
+        ```sh
+        sudo su – 
+        ```
+    c. Instale el paquete Apache en el sistema operativo
+        ```sh
+        sudo yum install httpd -y
+        ```
+    d. Inicie la aplicación Apache
+        ```sh
+        sudo apachectl start
+        ```
+    e. Configure el firewall localhost para permitir el tráfico de Apache; para ello utilice los siguientes comandos en Linux:
+        ```sh
+        sudo systemctl enable httpd
+        sudo apachectl configtest
+        sudo firewall-cmd --permanent --zone=public --add-service=http
+        sudo firewall-cmd --reload
+        ```
+    f. Para identificar **la primera instancia de computo** utilizada en la interfaz web (Linux - AD1), personalice el archivo **"index.html"**. Utilice el siguiente comando como usuario ROOT:
+    
+        **Nota: Primero copie la primera línea de código y péguela. Luego copie el cuerpo del código a </html> y péguelo. Por último, copie la última línea y péguela.**
+    
+            cat <<EOF > /var/www/html/index.html
+            <!DOCTYPE html>
+            <html lang="pt-br">
+            <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>OCI FAST TRACK: Webserver 1</title>
+            </head>
+            <body>
+            <center> <img src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id3kyspkytmr/b/workshops-materiais/o/ocifasttracklogo.jpg"
+            alt="LOGO OCI">
+            <h1>Load Balancer Webservers</h1>
+            <center> <img src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/id3kyspkytmr/b/workshops-materiais/o/Webserver1.jpg"
+            </center>
+            </body>
+            </html>
+            EOF
+            
         
 3. En **segunda instancia** repetirás los pasos anteriores, del **1 al 5**, para identificar la segunda instancia informática (Linux – AD2) personaliza el archivo **“index.html”** usando el siguiente comando con el usuario **ROOT:**
     **Nota: Primero copie la primera línea de código y péguela. Luego copie el cuerpo del código a </html> y péguelo. Por último, copie la última línea y péguela.**
