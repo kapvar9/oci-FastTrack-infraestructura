@@ -116,9 +116,9 @@ select a.cust_first_name, count(a.country_id), sum(b.amount_sold) from sh.sales 
 
 ![clique em "Manage Scaling"](./imagenes/autonomous-database-scaling-17.png)
 
-4. Aumente a **2 OCPU** y haga clic en el botón **Apply**
+4. Aumente a **4 ECPU** y haga clic en el botón **Apply**
 
-![clique em "Apply"](./imagenes/autonomous-database-apply-18.png)
+![clique em "Apply"](./imagenes/aumentar.png)
 
 5. Luego de confirmar la escala, la cifra ADW en la consola mostrará la frase "**Scaling in progress**" y el Data Warehouse continuará en línea.
 
