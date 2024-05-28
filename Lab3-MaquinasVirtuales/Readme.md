@@ -65,7 +65,7 @@ Objetivos:
 
    ![imagen](../Lab1-Compartimentos/Imagenes/lab1-5.png)
    
-2. En "Compute", haz clic en _"Create Instance"_
+2. En "Compute", haz clic en _"Create Instance"_, recuerda verificar que te encuentras en tu compartment correspondiente
    
    ![imagen](../Lab3-MaquinasVirtuales/imagenes/lab3-5.png)
 
