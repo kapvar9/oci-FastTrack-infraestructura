@@ -76,7 +76,7 @@ La mayoría de las operaciones de bases de datos autonomas se pueden realizar de
 
 Esta nueva versión de Autonomous Database trae una versión ya cargada de SQL Developer a la que se puede acceder de la siguiente manera:
 1. Haga clic en el botón **"Database Actions"**. Usted sera redireccionado a una pestaña. <br>
-![Clque em Database Actions](./imagenes/autonomous-database-console-9.png)
+![Clque em Database Actions](./imagenes/acciones.png)
 
 2.	Inicie sesión en el Data Warehouse con el nombre de usuario ADMIN y la contraseña que creó en la Tarea 1.
 
