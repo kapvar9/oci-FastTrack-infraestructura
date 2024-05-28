@@ -39,6 +39,7 @@ Antes de comenzar a crear el servicio Load Balancer, tenga en cuenta que hay alg
 ### Tarea 1: Instalar la aplicación de Apache en un servidor Linux.
 
 1. Insalar la aplicación de Apache Server en cada servidor.
+   
     a. Conéctese al host de Linux (Ej:VM-OracleLinux-1)  utilizando el usuario opc, recuerde que para conectarse a la instancia debe utilizar la dirección IP privada de la maquina virtual y utilizar el siguiente comando
         ```sh
         ssh opc@<ip privada vm>
