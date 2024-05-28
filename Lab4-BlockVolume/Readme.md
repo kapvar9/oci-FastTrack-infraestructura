@@ -31,6 +31,8 @@ d.	**Size:** 500GB.
 e.	**Volume Performance:** Balanced.
 
 ** *Seleccione Availability Domain (AD) para el Block Volume igual que el de la instancia de computo creada anteriormente* **
+![imagen](../Lab4-BlockVolume/Imagenes/compartmentAD.png)
+
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen2.png)
 
 ![imagen](../Lab4-BlockVolume/Imagenes/Imagen3.png)
