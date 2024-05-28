@@ -34,7 +34,7 @@ Autonomous Database ofrece 3 tipos de carga de trabajo:
 1. Haga clic sobre el menu principal que se encuentra en la parte izquierda de la pantalla y en la sección de Oracle Database, seleccione "Autonomous Database".<br>
 ![menu do Autonomous Database](./imagenes/autonomous-database-menu-1.png)
 2. Haga clic en "Create Autonomous Database", posteriormente será redireccionado al panel de despliegue de Autonomous Database.<br>
-![clique em "Create Autonomous Database"](./images/autonomous-database-create-2.png)
+![clique em "Create Autonomous Database"](./images/crear-autonomous.png)
 3. Complete los campos necesarios para crear su base de datos autónoma como se muestra a continuación:<br>
 ![preencha os campos do Autonomous Database](./imagenes/autonomous-database-type-3.png)
 - Display Name: Asigne un nombre para su banco de datos.
