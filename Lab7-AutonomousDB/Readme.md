@@ -150,12 +150,15 @@ Utilice la herramienta Performance Hub para analizar y ajustar el rendimiento de
 Otra forma de consultar las actividades de la base de datos es que, mientras ejecuta comandos, puede cambiar a la vista de actividades en el Database Dashboard dentro de la sección Database Actions en la consola de OCI y realizar un seguimiento de la actividad de la base de datos.
 
 10. Regrese a la pantalla 'Autonomous Database Details' y haga clic en el botón **Database Actions**.<br>
-![clique em "Database Actions"](./imagenes/autonomous-database-console-9.png)
+![clique em "Database Actions"](./imagenes/acciones.png)
 
 11. Seleccione **Database Dashboard**.
 ![selecione "Database Dashboard"](./imagenes/autonomous-database-service-25.png) 
 
 12. Seleccione **Monitor**.
 ![selecione "Monitor"](./imagenes/autonomous-database-activity-26.png) 
+
+### Conclusión
+En esta sesión, aprendió cómo aprovisionar un almacén de datos autónomo de Oracle. Exploró la herramienta Catálogo nativa de esta base de datos autónoma y aprendió a monitorear el rendimiento y las sentencias SQL que se ejecutan en la base de datos.
 
 **Felicitaciones! Terminaste todos los laboratorios! 👏🤩**
