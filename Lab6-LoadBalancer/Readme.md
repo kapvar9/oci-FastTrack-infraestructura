@@ -39,7 +39,11 @@ Antes de comenzar a crear el servicio Load Balancer, tenga en cuenta que hay alg
 ### Tarea 1: Instalar la aplicación de Apache en un servidor Linux.
 
 1. Insalar la aplicación de Apache Server en cada servidor.
-a. Conéctese al host de Linux utilizando el usuario opc.
+a. Conéctese al host de Linux (Ej:VM-OracleLinux-1)  utilizando el usuario opc, recuerde que para conectarse a la instancia debe utilizar la dirección IP privada de la maquina virtual y utilizar el siguiente comando
+    ```sh
+    ssh opc@<ip privada vm>
+    ```
+
 b. Una vez que haya iniciado sesión, cambie su usuario a ROOT con el comando:
  
     ```sh
@@ -83,7 +87,7 @@ b. Una vez que haya iniciado sesión, cambie su usuario a ROOT con el comando:
         EOF
         
         
-2. En **segunda instancia** repetirás los pasos anteriores, del **1 al 5**, para identificar la segunda instancia informática (Linux – AD2) personaliza el archivo **“index.html”** usando el siguiente comando con el usuario **ROOT:**
+3. En **segunda instancia** repetirás los pasos anteriores, del **1 al 5**, para identificar la segunda instancia informática (Linux – AD2) personaliza el archivo **“index.html”** usando el siguiente comando con el usuario **ROOT:**
     **Nota: Primero copie la primera línea de código y péguela. Luego copie el cuerpo del código a </html> y péguelo. Por último, copie la última línea y péguela.**
     ```sh
     cat <<EOF > /var/www/html/index.html  
@@ -106,7 +110,7 @@ b. Una vez que haya iniciado sesión, cambie su usuario a ROOT con el comando:
     ```
    
 
-3.	Pruebe el comportamiento de Apache, todo lo que necesita hacer es usar la **IP privada de la instancia de computo** (VM-OracleLinux-AD1) en el navegador web VNC para ver si aparece la página de inicio de Apache.<br>
+4.	Pruebe el comportamiento de Apache, todo lo que necesita hacer es usar la **IP privada de la instancia de computo** (VM-OracleLinux-AD1) en el navegador web VNC para ver si aparece la página de inicio de Apache.<br>
 
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen2.png)<br>
 ![imagen](../Lab6-LoadBalancer/Imagenes/Imagen3.png)
