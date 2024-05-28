@@ -48,7 +48,7 @@ Autonomous Database ofrece 3 tipos de carga de trabajo:
 - ECPU count:**2**
 - Storage (TB): **1**
 
-*OCI TIP: Usted puede escoger entre 1 y 128 OCPU y entre 1 y 128 TBs de almacenamiento*<br>
+
 
 ![configure as credenciais e tipo de acesso](./imagenes/autonomous-database-credentials-5.png)
 
