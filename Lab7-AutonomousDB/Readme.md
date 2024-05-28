@@ -57,7 +57,7 @@ Autonomous Database ofrece 3 tipos de carga de trabajo:
 
 **Nota: La contraseña debe tener entre 12 y 30 caracteres y contener al menos una letra mayúscula, una letra minúscula y un número. La contraseña no puede contener comillas dobles (") ni el nombre de usuario "admin".**<br>
 
-![escolha a licença e clique em "Create Autonomous Database"](./imagenes/autonomous-database-license-6.png)
+![escolha a licença e clique em "Create Autonomous Database"](./imagenes/licencia.png)
 
 - Choose License and Oracle Database Edition: **Bring Your Own License (BYOL).**
 - Choose an Oracle Database Edition: **Oracle Database Enterprise Edition (EE).**
