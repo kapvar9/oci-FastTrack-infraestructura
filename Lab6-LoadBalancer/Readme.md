@@ -45,7 +45,6 @@ a. Conéctese al host de Linux (Ej:VM-OracleLinux-1)  utilizando el usuario opc,
     ```
 
 b. Una vez que haya iniciado sesión, cambie su usuario a ROOT con el comando:
- 
     ```sh
     sudo su – 
     ```
