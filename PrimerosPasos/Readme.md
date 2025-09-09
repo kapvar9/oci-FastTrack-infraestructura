@@ -45,9 +45,9 @@ Si ya tiene un par de claves SSH, puede usarlo para conectarse a su entorno. Le 
 
 Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Claves SSH"](https://docs.oracle.com/es/learn/generate_ssh_keys/index.html). En el encontrará el paso a paso para la generación de las claves SSH necesarias dependiendo de su sistema operativo de preferencia 
 
-***Importante : Si la clave SSH no se crea correctamente, no podrá conectarse a su entorno y recibirá errores. Asegúrese de crear su clave correctamente.***
+> [!IMPORTANT]
+> Si la clave SSH no se crea correctamente, no podrá conectarse a su entorno y recibirá errores. Asegúrese de crear su clave correctamente
 
-    
 
 4. La página te redigirá a la sección de _"My Reservations"_. Aparecerá tu reserva del ambiente de trabajo. Tomará unos minutos en crearse.
 
