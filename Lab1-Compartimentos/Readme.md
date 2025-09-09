@@ -64,7 +64,7 @@ Objetivos:
 1. Accedamos a nuestra consola de OCI. Una vez autenticado, explora la pantalla de inicio de Oracle Cloud y también nuestro “Menú Principal”, donde podrás encontrar todos los servicios disponibles en nuestra consola.
    
    ![imagen](../PrimerosPasos/imagenes/paso21.png)
-   ![imagen](../PrimerosPasos/imagenes/compartments.png)
+   ![imagen](../Lab1-Compartimentos/Imagenes/compartments.png)
    
 3. En el menu 🍔, seleccionamos Identity & Security ➡️ Compartments
 
