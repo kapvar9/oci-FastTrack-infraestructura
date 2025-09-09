@@ -89,7 +89,7 @@ Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Clav
 
      ![imagen](../PrimerosPasos/imagenes/paso14.png)
 
- 6. Volvemos a la página del workshop, vamos a los datos de la reserva y damos clic en _"Launch OCI"_ de nuevo
+ 6. Será enviado a la pantalla home de Oracle Cloud Infrastructure. En caso de no ser re direccionado, volvemos a la página del workshop, vamos a los datos de la reserva y damos clic en _"Launch OCI"_ de nuevo
 
      ![imagen](../PrimerosPasos/imagenes/paso15.png)
 
@@ -97,6 +97,7 @@ Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Clav
 
      ![imagen](../PrimerosPasos/imagenes/paso16.png)
 
+<!--
 8. Te aparecerá una ventana de verificación segura, haz clic en _"Activar verificación segura"_
 
    ![imagen](../PrimerosPasos/imagenes/paso17.png)
@@ -114,12 +115,12 @@ Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Clav
 11. Si la cuenta ha sido agregada correctamente, te deberá aparecer este mensaje. Luego, haz clic en _"Listo"_⤵️
     
     ![imagen](../PrimerosPasos/imagenes/paso20.png)
-
-12. Te redireccionará a la página de OCI
+-->
+9. Te redireccionará a la página home de la consola de Oracle Cloud Infrastructure
 
     ![imagen](../PrimerosPasos/imagenes/paso21.png)
 
-13. Para finalizar, volvemos a la página del laboratorio y vamos a la sección de las credenciales. Hacemos clic en _"Launch Remote Desktop"_
+10. Para finalizar, volvemos a la página del laboratorio y vamos a la sección de las credenciales. Hacemos clic en _"Launch Remote Desktop"_
 
     ![imagen](../PrimerosPasos/imagenes/paso22.png)
 
