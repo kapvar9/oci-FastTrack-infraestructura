@@ -76,9 +76,8 @@ Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Clav
    
    Apuntemos en un bloc de notas, el _"username"_ y el _"password"_ de OCI
 
- 2. Hacemos clic en _"Launch OCI"_ y nos redireccionara a la página de OCI. En esta nueva pagina en caso de ser necesario debemos seleccionar el Domain/Dominio ***Default*** y hacer click en el botón Next/Siguiente. Posteriormente, Debemos verificar que nuestro usuario y el tenancy sean los correctos 🕵️‍♀️ Caso contrario, debemos cambiar estos datos de acuerdo a los datos de la reserva
+ 2. Hacemos clic en _"Launch OCI"_ y nos redireccionara a la página de OCI.  Debemos verificar que nuestro usuario y el tenancy sean los correctos 🕵️‍♀️ Caso contrario, debemos cambiar estos datos de acuerdo a los datos de la reserva. Asi mismo, en caso de ser necesario debemos seleccionar el Domain/Dominio ***Default***
     
-     ![imagen](../PrimerosPasos/imagenes/paso12_0.png)
      ![imagen](../PrimerosPasos/imagenes/paso12.png)
     
 
