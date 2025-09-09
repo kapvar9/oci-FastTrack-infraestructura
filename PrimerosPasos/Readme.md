@@ -34,11 +34,21 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
 
     ![imagen](../PrimerosPasos/imagenes/paso5.png)
 
- 2. Nos aparecerá los datos de la reserva. En esta parte debes cambiar la zona horario, dar clic a la opcion de empezar el workshop ahora y aceptar el consentimiento. Luego, clic en _"Submit Reservation"_
+ 2. Nos aparecerá los datos de la reserva. En esta parte debes cambiar la zona horario, dar clic a la opcion de empezar el workshop ahora, ingresar una llave publica SSH y aceptar el consentimiento. Luego, clic en _"Submit Reservation"_
 
     ![imagen](../PrimerosPasos/imagenes/paso6.png)
 
-3. La página te redigirá a la sección de _"My Reservations"_. Aparecerá tu reserva del ambiente de trabajo. Tomará unos minutos en crearse.
+    El protocolo SSH (Secure Shell) es un método para el inicio de sesión remoto seguro entre computadoras. SSH permite la administración segura de sistemas y la   transferencia de archivos a través de redes inseguras mediante cifrado para proteger las conexiones entre endpoints. Las claves SSH son fundamentales para el acceso seguro a las instancias de cómputo de Oracle Cloud Infrastructure en la nube.
+
+Si ya tiene un par de claves SSH, puede usarlo para conectarse a su entorno. Le recomendamos usar Oracle Cloud Shell para interactuar con la instancia de cómputo de OCI que creará. Oracle Cloud Shell se basa en el navegador, no requiere instalación ni configuración en su portátil y funciona independientemente de su configuración de red. Sin embargo, si prefiere conectarse a través de su portátil, seleccione una opción según su configuración.
+
+Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Claves SSH"](https://oracle-livelabs.github.io/common/labs/generate-ssh-key/?lab=generate-ssh-keys). En el encontrará el paso a paso para la generación de las claves SSH necesarias dependiendo de su sistema operativo de preferencia 
+
+***Importante : Si la clave SSH no se crea correctamente, no podrá conectarse a su entorno y recibirá errores. Asegúrese de crear su clave correctamente.***
+
+    
+
+4. La página te redigirá a la sección de _"My Reservations"_. Aparecerá tu reserva del ambiente de trabajo. Tomará unos minutos en crearse.
 
    ![imagen](../PrimerosPasos/imagenes/paso7.png)
 
