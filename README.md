@@ -15,6 +15,16 @@ Al final de este taller, la arquitectura creada será la siguiente:
 
 _Tiempo estimado para terminar el Workshop_: 8 horas
 
+## Objetivos
+Por medio de esta guia, vamos a realizar los siguientes laboratorios y objetivos
+- Compartimientos
+- Redes (VCN y subredes)
+- Instancias de computo
+- Almacenamiento en bloque
+- Almacenamiento de objetos
+- Balanceadores de carga
+- Oracle Autonomous Database 
+
 > [!IMPORTANT]
 > Antes de empezar, recuerda revisar la sección de Primeros Pasos
 
