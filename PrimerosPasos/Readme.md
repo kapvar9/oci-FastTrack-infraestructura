@@ -76,49 +76,51 @@ Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Clav
    
    Apuntemos en un bloc de notas, el _"username"_ y el _"password"_ de OCI
 
- 2. Hacemos clic en _"Launch Oci"_ y nos redireccionara a la página de OCI. Debemos verificar que nuestro usuario y el tenancy sean los correctos 🕵️‍♀️ Caso contrario, debemos cambiar estos datos de acuerdo a los datos de la reserva
+ 2. Hacemos clic en _"Launch OCI"_ y nos redireccionara a la página de OCI. En esta nueva pagina en caso de ser necesario debemos seleccionar el Domain/Dominio ***Default*** y hacer click en el botón Next/Siguiente. Posteriormente, Debemos verificar que nuestro usuario y el tenancy sean los correctos 🕵️‍♀️ Caso contrario, debemos cambiar estos datos de acuerdo a los datos de la reserva
     
+     ![imagen](../PrimerosPasos/imagenes/paso12_0.png)
      ![imagen](../PrimerosPasos/imagenes/paso12.png)
+    
 
-  3. Colocamos los datos del _"username"_ y _"password"_ de OCI y hacemos clic en _"Conectar"_
+  4. Colocamos los datos del _"username"_ y _"password"_ de OCI y hacemos clic en _"Conectar"_
 
       ![imagen](../PrimerosPasos/imagenes/paso13.png)
 
- 4. OCI nos pedirá cambiar nuestra contraseña. La cambiamos y damos clic en _"Restablecer contraseña"_
+ 5. OCI nos pedirá cambiar nuestra contraseña. La cambiamos y damos clic en _"Restablecer contraseña"_
 
      ![imagen](../PrimerosPasos/imagenes/paso14.png)
 
- 5. Volvemos a la página del workshop, vamos a los datos de la reserva y damos clic en _"Launch OCI"_ de nuevo
+ 6. Volvemos a la página del workshop, vamos a los datos de la reserva y damos clic en _"Launch OCI"_ de nuevo
 
      ![imagen](../PrimerosPasos/imagenes/paso15.png)
 
- 6. Verificas que los datos estén correctos y te loggeas con la nueva contraseña
+ 7. Verificas que los datos estén correctos y te loggeas con la nueva contraseña
 
      ![imagen](../PrimerosPasos/imagenes/paso16.png)
 
-7. Te aparecerá una ventana de verificación segura, haz clic en _"Activar verificación segura"_
+8. Te aparecerá una ventana de verificación segura, haz clic en _"Activar verificación segura"_
 
    ![imagen](../PrimerosPasos/imagenes/paso17.png)
 
-8. Elegimos la opción de _"Aplicación móvil"_
+9. Elegimos la opción de _"Aplicación móvil"_
 
    ![imagen](../PrimerosPasos/imagenes/paso18.png)
 
-9. Descargamos la aplicación móvil _"Oracle Mobile Authenticator"_ de la tienda de aplicaciones de su celular ⤵️
+10. Descargamos la aplicación móvil _"Oracle Mobile Authenticator"_ de la tienda de aplicaciones de su celular ⤵️
     - Si eres Android: https://play.google.com/store/apps/details?id=oracle.idm.mobile.authenticator&hl=en&pli=1
     - Si eres Apple: https://apps.apple.com/us/app/oracle-mobile-authenticator/id835904829
 
     ![imagen](../PrimerosPasos/imagenes/paso19.png)
 
-10. Si la cuenta ha sido agregada correctamente, te deberá aparecer este mensaje. Luego, haz clic en _"Listo"_⤵️
+11. Si la cuenta ha sido agregada correctamente, te deberá aparecer este mensaje. Luego, haz clic en _"Listo"_⤵️
     
     ![imagen](../PrimerosPasos/imagenes/paso20.png)
 
-11. Te redireccionará a la página de OCI
+12. Te redireccionará a la página de OCI
 
     ![imagen](../PrimerosPasos/imagenes/paso21.png)
 
-12. Para finalizar, volvemos a la página del laboratorio y vamos a la sección de las credenciales. Hacemos clic en _"Launch Remote Desktop"_
+13. Para finalizar, volvemos a la página del laboratorio y vamos a la sección de las credenciales. Hacemos clic en _"Launch Remote Desktop"_
 
     ![imagen](../PrimerosPasos/imagenes/paso22.png)
 
