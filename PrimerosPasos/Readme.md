@@ -30,7 +30,7 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
 
 ### Paso 2: Activar tu ambiente de laboratorio
 
- 1. Luego de dar clic en _"Start"_, nos aparecerá un recuadro con 2 opciones, elegimos la segunda _"Run on LiveLabs Sandbox"_
+ 1. Luego de dar clic en _"Start"_, nos aparecerá un recuadro con 3 opciones, elegimos la segunda _"Run on LiveLabs Sandbox"_
 
     ![imagen](../PrimerosPasos/imagenes/paso5.png)
 
