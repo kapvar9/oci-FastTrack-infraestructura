@@ -82,4 +82,8 @@ Objetivos:
 
   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-6.png)
 
+Tras hacer clic en su compartimento, verá una instancia creada como se muestra en la imagen a continuación. Esta instancia es simplemente la máquina NoVNC que se utilizará en el taller y a la que se accedió anteriormente con "Launch Remote Desktop"
+
+   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-7.png)
+
 **Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 2 - VCN](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab2-VCN/Readme.md)**
