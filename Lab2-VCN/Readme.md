@@ -24,15 +24,17 @@ Objetivos:
 
    ![imagen](../Lab2-VCN/Imagenes/lab2-1.png)
    
-2. Seleccionamos el compartment del laboratorio, ahí encontraremos la VNC
+2. Seleccionamos el compartment del laboratorio, ahí encontraremos la VNC. Para recordar el nombre de su compartimiento, puede encontrar esta información en la sección **View loging info** en la parte superior derecha del livelab
+
+    ![imagen](../Lab2-VCN/Imagenes/compartment-vcn.png)   
 
    ![imagen](../Lab2-VCN/Imagenes/lab2-2.png)
    
-3. Hacemos clic en la VNC para poder explorar los recursos asociados a ella
+4. Hacemos clic en la VNC para poder explorar los recursos asociados a ella
 
    ![imagen](../Lab2-VCN/Imagenes/lab2-3.png)
 
-4. En la consola vera una serie de pestañas que hacen referencias a los diferentes servicios, features o recursos asociados a su VCN, puede explorarlos si asi lo desea
+5. En la consola vera una serie de pestañas que hacen referencias a los diferentes servicios, features o recursos asociados a su VCN, puede explorarlos si asi lo desea
 
    ![imagen](../Lab2-VCN/Imagenes/lab2-4.png)
 
