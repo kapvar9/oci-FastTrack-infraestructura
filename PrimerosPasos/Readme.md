@@ -34,7 +34,7 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
 
     ![imagen](../PrimerosPasos/imagenes/paso5.png)
 
- 2. Nos aparecerá los datos de la reserva. En esta parte debes cambiar la zona horario, dar clic a la opcion de empezar el workshop ahora, ingresar una llave publica SSH y aceptar el consentimiento. Luego, clic en _"Submit Reservation"_
+ 2. Nos aparecerá los datos de la reserva. En esta parte debes cambiar la zona horaria para que se adecue a tu hora local, dar clic a la opcion de empezar el workshop ahora, ingresar una llave publica SSH y aceptar el consentimiento. Luego, clic en _"Submit Reservation"_
 
     ![imagen](../PrimerosPasos/imagenes/paso6.png)
 
@@ -43,7 +43,7 @@ El protocolo SSH (Secure Shell) es un método para el inicio de sesión remoto s
 
 Si ya tiene un par de claves SSH, puede usarlo para conectarse a su entorno. Le recomendamos usar Oracle Cloud Shell para interactuar con la instancia de cómputo de OCI que creará. Oracle Cloud Shell se basa en el navegador, no requiere instalación ni configuración en su portátil y funciona independientemente de su configuración de red. Sin embargo, si prefiere conectarse a través de su portátil, seleccione una opción según su configuración.
 
-Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Claves SSH"](https://docs.oracle.com/es/learn/generate_ssh_keys/index.html). En el encontrará el paso a paso para la generación de las claves SSH necesarias dependiendo de su sistema operativo de preferencia 
+**Para crear una la clave SSH por favor ingrese al siguiente enlace ["Generar Claves SSH"](https://docs.oracle.com/es/learn/generate_ssh_keys/index.html). En el encontrará el paso a paso para la generación de las claves SSH necesarias dependiendo de su sistema operativo de preferencia.**
 
 > [!IMPORTANT]
 > Si la clave SSH no se crea correctamente, no podrá conectarse a su entorno y recibirá errores. Asegúrese de crear su clave correctamente
