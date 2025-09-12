@@ -39,7 +39,7 @@ Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por 
     ![imagen](../PrimerosPasos/imagenes/paso6.png)
 
 
-El protocolo SSH (Secure Shell) es un método para el inicio de sesión remoto seguro entre computadoras. SSH permite la administración segura de sistemas y la   transferencia de archivos a través de redes inseguras mediante cifrado para proteger las conexiones entre endpoints. Las claves SSH son fundamentales para el acceso seguro a las instancias de cómputo de Oracle Cloud Infrastructure en la nube.
+El protocolo SSH (Secure Shell) es un método para el inicio de sesión remoto seguro entre computadoras. SSH permite la administración segura de sistemas y la   transferencia de archivos a través de redes no seguras mediante cifrado para proteger las conexiones entre endpoints. Las claves SSH son fundamentales para el acceso seguro a las instancias de cómputo de Oracle Cloud Infrastructure en la nube.
 
 Si ya tiene un par de claves SSH, puede usarlo para conectarse a su entorno. Le recomendamos usar Oracle Cloud Shell para interactuar con la instancia de cómputo de OCI que creará. Oracle Cloud Shell se basa en el navegador, no requiere instalación ni configuración en su portátil y funciona independientemente de su configuración de red. Sin embargo, si prefiere conectarse a través de su portátil, seleccione una opción según su configuración.
 
