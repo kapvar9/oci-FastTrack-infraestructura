@@ -1,6 +1,6 @@
 # Empezando con Oracle LiveLabs
 
-Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por Oracle. Para poder realizar el Workshop, debemos seguir estos pasos primero para preparar nuestro ambiente 🤩 
+Este workshop se desarrollará usando un ambiente de LiveLabs proporcionado por Oracle Cloud Infrastructure. Para poder realizar este Workshop de manera adecuada, debemos tener en cuenta estos pasos iniciales para preparar nuestro ambiente 🤩 
 
 ## Paso a paso 👣
 - [Paso 1: Ingresar a LiveLabs](#paso-1-ingresar-a-livelabs)
