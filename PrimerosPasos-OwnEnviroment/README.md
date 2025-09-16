@@ -48,3 +48,5 @@ Oracle Cloud es el proveedor de nube más amplio e integrado del sector, con opc
 8. Se muestra la página de inicio de **Oracle Cloud Console** .
    
    ![imagen](../PrimerosPasos-OwnEnviroment/Imagenes/inicio-05.png)
+
+**BRAVO!👏 Ahora ya estamos listos para empezar! Continuemos con el primer laboratorio 🤩👉 [Laboratorio 1](https://github.com/kapvar9/oci-FastTrack-infraestructura/tree/main/Lab1-Compartimentos)**
