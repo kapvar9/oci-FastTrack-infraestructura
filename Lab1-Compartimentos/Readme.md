@@ -84,6 +84,8 @@ Luego haga clic en el botón **“Crear compartimiento**
 
    ![imagen](../Lab1-Compartimentos/Imagenes/crear-comp-031.png)
 
+Super! Continuemos con el siguiente laboratorio 🤩👉 Laboratorio 2 - VCN
+
 ### Explorando un Compartment
 
 En esta sección, explorarás la característica Compartimento dentro de Oracle Cloud Infrastructure.
