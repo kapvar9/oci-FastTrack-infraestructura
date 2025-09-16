@@ -3,7 +3,7 @@
 Esta sección contiene 3 partes:
 - [Aprendamos un poco sobre la arquitectura de OCI ](#aprendamos-un-poco-sobre-la-arquitectura-de-oci)
 - [Comparments](#trabajar-con-compatimentos-compartments-para-organizar-nuestros-recursos-en-oci)
-- [Laboratorio 1](#laboratorio-1-exploremos-un-compartment)
+- [Laboratorio 1](#Hablemos-sobre-los-compartments)
 
 ## Aprendamos un poco sobre la arquitectura de OCI 
 
@@ -50,9 +50,36 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
 ![imagen](../Lab1-Compartimentos/Imagenes/lab1-2.png)
 
 
-## Laboratorio 1: Exploremos un compartment
+## Laboratorio 1: Hablemos sobre los compartments
 
-En este laboratorio, explorarás la característica Compartimento dentro de Oracle Cloud Infrastructure.
+
+Dependiendo del ambiente que estés utilizando, ya sea un [Sandbox LiveLab](PrimerosPasos/Readme.md) o tu [propio ambiente en Oracle Cloud](PrimerosPasos-OwnEnviroment/README.md), tendrás diferentes recursos iniciales disponibles. En el caso de LiveLab, los compartments y las VCN (Virtual Cloud Networks) ya estarán creados para que puedas explorarlos y familiarizarte con ellos. En cambio, si trabajas con tu cuenta propia, deberás seguir los pasos de creación de compartments y VCN desde cero, lo cual te dará la oportunidad de practicar y entender mejor cómo se configuran estos elementos básicos en la nube.
+
+### Creando un Compartment
+En esta sección aprenderá como crear un compartment o compartimiento desde la consola de OCI.
+
+1. Una vez que se haya autenticado e ingresado a la consola de Oracle Cloud Infrastructure, podrá ver la pantalla de inicio de la consola de administración, y también encontrará en la parte superior derecha nuestro "Menú de navegación", allí podrá encontrar todos los servicios disponibles de Oracle Cloud Infrastructure.
+
+   ![imagen](../PrimerosPasos/imagenes/paso21.png)
+   ![imagen](../Lab1-Compartimentos/Imagenes/compartments.png)
+
+2. En el menu de navegación🍔, seleccionamos Identity & Security ➡️ Compartments
+
+   ![imagen](../Lab1-Compartimentos/Imagenes/lab1-3.png)
+
+3. Haga clic en “Crear Compartimiento” y seleccione la siguiente información
+-	**Nombre:** Compartimiento-trial
+-	**Descripción:** Compartimiento para los recursos del Fast Track
+-	**Compartimiento principal / Compartimiento padre:** raíz/root
+Luego haga clic en el botón **“Crear compartimiento**
+
+   ![imagen](../Lab1-Compartimentos/Imagenes/crear-comp-3.png)
+
+   ![imagen](../Lab1-Compartimentos/Imagenes/crear-comp-31.png)
+
+### Explorando un Compartment
+
+En esta sección, explorarás la característica Compartimento dentro de Oracle Cloud Infrastructure.
 
 _**Tiempo estimado para el laboratorio**_: 10 minutos
 
