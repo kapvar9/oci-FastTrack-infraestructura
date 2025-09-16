@@ -73,9 +73,9 @@ En esta sección aprenderá como crear un compartment o compartimiento desde la 
 -	**Compartimiento principal / Compartimiento padre:** raíz/root
 Luego haga clic en el botón **“Crear compartimiento**
 
-   ![imagen](../Lab1-Compartimentos/Imagenes/crear-comp-3.png)
+   ![imagen](../Lab1-Compartimentos/Imagenes/crear-comp-03.png)
 
-   ![imagen](../Lab1-Compartimentos/Imagenes/crear-comp-31.png)
+   ![imagen](../Lab1-Compartimentos/Imagenes/crear-comp-031.png)
 
 ### Explorando un Compartment
 
