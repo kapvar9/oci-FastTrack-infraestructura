@@ -56,6 +56,13 @@ Los compartimentos son globales en todas las regiones; cuando creas un compartim
 Dependiendo del ambiente que estés utilizando, ya sea un [Sandbox LiveLab](PrimerosPasos/Readme.md) o tu [propio ambiente en Oracle Cloud](PrimerosPasos-OwnEnviroment/README.md), tendrás diferentes recursos iniciales disponibles. En el caso de LiveLab, los compartments y las VCN (Virtual Cloud Networks) ya estarán creados para que puedas explorarlos y familiarizarte con ellos. En cambio, si trabajas con tu cuenta propia, deberás seguir los pasos de creación de compartments y VCN desde cero, lo cual te dará la oportunidad de practicar y entender mejor cómo se configuran estos elementos básicos en la nube.
 
 ### Creando un Compartment
+_**Tiempo estimado para el laboratorio**_: 10 minutos
+
+Objetivos:
+- Acceder a la Consola de Oracle Cloud
+- Familiarizarse con la interfaz de OCI
+- Crear el Compartimento
+  
 En esta sección aprenderá como crear un compartment o compartimiento desde la consola de OCI.
 
 1. Una vez que se haya autenticado e ingresado a la consola de Oracle Cloud Infrastructure, podrá ver la pantalla de inicio de la consola de administración, y también encontrará en la parte superior derecha nuestro "Menú de navegación", allí podrá encontrar todos los servicios disponibles de Oracle Cloud Infrastructure.
