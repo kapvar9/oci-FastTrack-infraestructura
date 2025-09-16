@@ -2,7 +2,7 @@
 
 Esta sección contiene 2 partes:
 - [VNC](#aprendamos-un-poco-sobre-lo-que-es-una-vcn)
-- [Laboratorio 2](#laboratorio-2-exploremos-una-vcn)
+- [Laboratorio 2](#laboratorio-2-Virtual-Cloud-Network-VCN)
   
 ## Aprendamos un poco sobre lo que es una VCN
 
@@ -10,7 +10,7 @@ Una Red de Nube Virtual o Virtual Cloud Network (VCN) es una red definida por so
 
 Para saber más, puedes consultar la documentación de OCI 🤓➡️ https://docs.oracle.com/es-ww/iaas/Content/Network/Concepts/overview.htm#network_landing
 
-## Laboratorio 2: Exploremos una VCN
+## Laboratorio 2: Virtual Cloud Network VCN
 
 En este laboratorio, aprenderás a explorar una Red Virtual en la Nube (VCN) y sus recursos.
 
