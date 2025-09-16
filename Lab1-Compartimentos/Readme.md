@@ -84,7 +84,7 @@ Luego haga clic en el botón **“Crear compartimiento**
 
    ![imagen](../Lab1-Compartimentos/Imagenes/crear-comp-031.png)
 
-Super! Continuemos con el siguiente laboratorio 🤩👉 Laboratorio 2 - VCN
+**Super! Continuemos con el siguiente laboratorio 🤩👉 [Laboratorio 2 - VCN](https://github.com/kapvar9/oci-FastTrack-infraestructura/blob/main/Lab2-VCN/Readme.md)**
 
 ### Explorando un Compartment
 
