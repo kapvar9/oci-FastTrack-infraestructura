@@ -29,7 +29,7 @@ Por medio de esta guia, vamos a realizar los siguientes laboratorios y objetivos
 > Antes de empezar, recuerda revisar la sección de Primeros Pasos, ya sea que estes utilizando un ambiente propio o un ambiente sandbox de Livelab
 
 - [Configuración del ambiente de laboratorio - Ambiente LiveLab](PrimerosPasos/Readme.md)
-- [Ingresar a tu cuenta de Oracle Cloud - Ambiente propio](PrimerosPasos-OwnEnviroment/Readme.md)
+- [Ingresar a tu cuenta de Oracle Cloud - Ambiente propio](PrimerosPasos-OwnEnviroment/README.md)
   
 ### ¡Accede a la secuencia de laboratorios! ⬇
 - [Laboratorio 1 - Explorar un compartimento](Lab1-Compartimentos/Readme.md)
