@@ -16,7 +16,7 @@ Dependiendo del ambiente que estés utilizando, ya sea un [Sandbox LiveLab](Prim
 ### Creando una VCN ( Red Virtual en la nube)
 
 Objetivos
-- Criar uma Red Virtual en la Nube (VCN)
+- Crear una Red Virtual en la nube (VCN)
 
 En esta sección, aprenderás como crear una Red Virtual en la nube (VCN) y sus recursos.
 
