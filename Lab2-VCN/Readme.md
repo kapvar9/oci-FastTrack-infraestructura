@@ -12,7 +12,41 @@ Para saber más, puedes consultar la documentación de OCI 🤓➡️ https://do
 
 ## Laboratorio 2: Virtual Cloud Network VCN
 
+### Creando una VCN ( Red Virtual en la nube)
+
+Objetivos
+- Criar uma Red Virtual en la Nube (VCN)
+
+En esta sección, aprenderás como crear una Red Virtual en la nube (VCN) y sus recursos.
+
+1. En el menú de navegación 🍔, vamos a Networking ➡️ Virtual Cloud Network
+   
+    ![imagen](../Lab2-VCN/Imagenes/lab2-1.png)
+
+2. Seleccione el compartimiento creado en el [Laboratorio 1: Hablemos sobre los compartments](https://github.com/kapvar9/oci-FastTrack-infraestructura/tree/main/Lab1-Compartimentos#creando-un-compartment) "Compartimiento-Trial"
+   
+3. Haga clic en "Iniciar asistente de VCN"
+   
+    ![imagen](../Lab2-VCN/Imagenes/vcn-crear-03.png)
+
+> [!NOTE]
+> Usando la opción "Iniciar asistente de VCN" tendrás toda la estructura de red próxima en menos de 5 minutos.
+
+
+
+
+
+
+
+
+
+
+
+
+
 En este laboratorio, aprenderás a explorar una Red Virtual en la Nube (VCN) y sus recursos.
+
+
 
 _**Tiempo estimado para el laboratorio**_: 15 minutos
 
@@ -20,7 +54,7 @@ Objetivos:
 - Explorar una Red Virtual en la Nube (VCN)
 
 
-1. En el menú 🍔, vamos a Networking ➡️ Virtual Cloud Network
+1. En el menú de navegación 🍔, vamos a Networking ➡️ Virtual Cloud Network
 
    ![imagen](../Lab2-VCN/Imagenes/lab2-1.png)
    
