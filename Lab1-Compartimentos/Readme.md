@@ -5,7 +5,7 @@ Esta sección contiene 3 partes:
 - [Comparments](#trabajar-con-compatimentos-compartments-para-organizar-nuestros-recursos-en-oci)
 - [Laboratorio 1](#Hablemos-sobre-los-compartments)
 
-## Aprendamos un poco sobre la arquitectura de OCI 
+## Aprendamos un poco sobre la arquitectura de OCI
 
 La arquitectura de OCI está compuesta de 3 partes: Regiones, Dominios de Disponibilidad o Availability Domains (AD) y Fault Domain o Dominio de Fallo (FD). Esta arquitectura está diseñada para lograr un alta disponibilidad y confiabilidad de las cargas de trabajo críticas de los clientes. 
 
