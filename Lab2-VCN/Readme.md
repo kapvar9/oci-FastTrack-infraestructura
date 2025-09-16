@@ -49,7 +49,7 @@ En esta sección, aprenderás como crear una Red Virtual en la nube (VCN) y sus 
    ![imagen](../Lab2-VCN/Imagenes/vcn-crear-051.png)
    ![imagen](../Lab2-VCN/Imagenes/vcn-crear-052.png)
 
-6. Revise los componentes y recursos de red que serán crados a través del wizard y haga clic en "Crear"
+6. Revise los componentes y recursos de red que serán creados a través del wizard y haga clic en "Crear"
    
    ![imagen](../Lab2-VCN/Imagenes/vcn-crear-06.png)
    
