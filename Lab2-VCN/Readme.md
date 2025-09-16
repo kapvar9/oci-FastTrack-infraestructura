@@ -18,6 +18,8 @@ Dependiendo del ambiente que estés utilizando, ya sea un [Sandbox LiveLab](Prim
 Objetivos
 - Crear una Red Virtual en la nube (VCN)
 
+  _**Tiempo estimado para el laboratorio**_: 15 minutos
+
 En esta sección, aprenderás como crear una Red Virtual en la nube (VCN) y sus recursos.
 
 1. En el menú de navegación 🍔, vamos a Networking ➡️ Virtual Cloud Network
@@ -75,7 +77,7 @@ En ella podra ver que los recursos creados fueron: 1 VCN, 2 Subredes regionales 
 
 ### Explorando una VCN ( Red Virtual en la nube)
 
-En este laboratorio, aprenderás a explorar una Red Virtual en la Nube (VCN) y sus recursos.
+En esta sección, aprenderás a explorar una Red Virtual en la Nube (VCN) y sus recursos.
 
 _**Tiempo estimado para el laboratorio**_: 15 minutos
 
